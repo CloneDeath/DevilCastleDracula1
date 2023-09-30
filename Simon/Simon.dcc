@@ -1,0 +1,24 @@
+{
+  "Name": "character",
+  "Enabled": true,
+  "WalkSpeed": 3.0,
+  "JumpHeight": 6.0,
+  "Gravity": 10.0,
+  "Height": 16.0,
+  "Width": 16.0,
+  "Animations": [
+    {
+      "Name": "walk",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Sprite": "",
+          "Source": "simon-belmont-4.png"
+        }
+      ]
+    }
+  ],
+  "WalkAnimation": "",
+  "IdleAnimation": "",
+  "JumpAnimation": ""
+}

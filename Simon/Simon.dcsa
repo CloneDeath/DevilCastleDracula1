@@ -1,0 +1,26 @@
+{
+  "File": "simon-belmont-4.png",
+  "TransparentColor": {
+    "Red": 0,
+    "Green": 128,
+    "Blue": 128
+  },
+  "Sprites": [
+    {
+      "Name": "idle",
+      "X": 77,
+      "Y": 10,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false
+    },
+    {
+      "Name": "walk-0",
+      "X": 106,
+      "Y": 8,
+      "Width": 20,
+      "Height": 33,
+      "FlipHorizontal": false
+    }
+  ]
+}
