@@ -8,17 +8,17 @@
   "Sprites": [
     {
       "Name": "idle",
-      "X": 80,
+      "X": 81,
       "Y": 7,
       "Width": 16,
-      "Height": 16,
+      "Height": 33,
       "FlipHorizontal": false
     },
     {
       "Name": "walk-0",
-      "X": 105,
+      "X": 107,
       "Y": 7,
-      "Width": 20,
+      "Width": 17,
       "Height": 33,
       "FlipHorizontal": false
     }
