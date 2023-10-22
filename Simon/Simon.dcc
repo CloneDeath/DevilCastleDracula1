@@ -11,14 +11,39 @@
       "Name": "walk",
       "Frames": [
         {
+          "Duration": 0.25,
+          "Sprite": "idle",
+          "Source": "Simon.dcsa"
+        },
+        {
+          "Duration": 0.25,
+          "Sprite": "walk-0",
+          "Source": "Simon.dcsa"
+        },
+        {
+          "Duration": 0.25,
+          "Sprite": "walk-1",
+          "Source": "Simon.dcsa"
+        },
+        {
+          "Duration": 0.25,
+          "Sprite": "walk-0",
+          "Source": "Simon.dcsa"
+        }
+      ]
+    },
+    {
+      "Name": "idle",
+      "Frames": [
+        {
           "Duration": 1.0,
-          "Sprite": "",
-          "Source": "simon-belmont-4.png"
+          "Sprite": "idle",
+          "Source": "Simon.dcsa"
         }
       ]
     }
   ],
-  "WalkAnimation": "",
-  "IdleAnimation": "",
-  "JumpAnimation": ""
+  "WalkAnimation": "walk",
+  "IdleAnimation": "idle",
+  "JumpAnimation": "idle"
 }

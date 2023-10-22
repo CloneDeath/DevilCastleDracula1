@@ -1,0 +1,18 @@
+{
+  "File": "level-01.png",
+  "TransparentColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0
+  },
+  "Sprites": [
+    {
+      "Name": "outside-floor",
+      "X": 1,
+      "Y": 170,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false
+    }
+  ]
+}

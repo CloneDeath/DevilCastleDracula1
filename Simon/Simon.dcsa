@@ -9,18 +9,26 @@
     {
       "Name": "idle",
       "X": 81,
-      "Y": 7,
+      "Y": 8,
       "Width": 16,
-      "Height": 33,
-      "FlipHorizontal": false
+      "Height": 32,
+      "FlipHorizontal": true
     },
     {
       "Name": "walk-0",
-      "X": 107,
-      "Y": 7,
-      "Width": 17,
-      "Height": 33,
-      "FlipHorizontal": false
+      "X": 108,
+      "Y": 8,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": true
+    },
+    {
+      "Name": "walk-1",
+      "X": 135,
+      "Y": 8,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": true
     }
   ]
 }
