@@ -12,7 +12,8 @@
       "Y": 8,
       "Width": 16,
       "Height": 32,
-      "FlipHorizontal": true
+      "FlipHorizontal": true,
+      "Id": "01842a92-73f2-438f-838d-9d6641eecc10"
     },
     {
       "Name": "walk-0",
@@ -20,7 +21,8 @@
       "Y": 8,
       "Width": 16,
       "Height": 32,
-      "FlipHorizontal": true
+      "FlipHorizontal": true,
+      "Id": "d7461668-89a7-49b6-a40c-80a6df01998b"
     },
     {
       "Name": "walk-1",
@@ -28,7 +30,17 @@
       "Y": 8,
       "Width": 16,
       "Height": 32,
-      "FlipHorizontal": true
+      "FlipHorizontal": true,
+      "Id": "be626687-37e6-4dfe-a054-9ff69fb6caa6"
+    },
+    {
+      "Name": "xxy",
+      "X": 68,
+      "Y": 52,
+      "Width": 10,
+      "Height": 30,
+      "FlipHorizontal": false,
+      "Id": "d0ced60f-9ce0-41c0-b7be-add7b14c39ac"
     }
   ]
 }

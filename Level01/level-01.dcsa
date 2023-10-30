@@ -12,7 +12,8 @@
       "Y": 170,
       "Width": 16,
       "Height": 16,
-      "FlipHorizontal": false
+      "FlipHorizontal": true,
+      "Id": "996b2ecd-2321-463f-b75d-5c31555f0032"
     }
   ]
 }

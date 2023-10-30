@@ -12,22 +12,22 @@
       "Frames": [
         {
           "Duration": 0.25,
-          "Sprite": "idle",
+          "SpriteId": "01842a92-73f2-438f-838d-9d6641eecc10",
           "Source": "Simon.dcsa"
         },
         {
           "Duration": 0.25,
-          "Sprite": "walk-0",
+          "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
           "Source": "Simon.dcsa"
         },
         {
           "Duration": 0.25,
-          "Sprite": "walk-1",
+          "SpriteId": "be626687-37e6-4dfe-a054-9ff69fb6caa6",
           "Source": "Simon.dcsa"
         },
         {
           "Duration": 0.25,
-          "Sprite": "walk-0",
+          "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
           "Source": "Simon.dcsa"
         }
       ]
@@ -37,7 +37,7 @@
       "Frames": [
         {
           "Duration": 1.0,
-          "Sprite": "idle",
+          "SpriteId": "01842a92-73f2-438f-838d-9d6641eecc10",
           "Source": "Simon.dcsa"
         }
       ]

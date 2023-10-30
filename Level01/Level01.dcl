@@ -5,107 +5,56 @@
   "AreaWidth": 16,
   "AreaHeight": 12,
   "StartingPosition": {
-    "Area": "",
+    "AreaId": "00000000-0000-0000-0000-000000000000",
     "X": 0.0,
     "Y": 0.0
   },
-  "Tiles": [
-    {
-      "Name": "Outsidee Floor",
-      "Source": "level-01.dcsa",
-      "Sprite": "outside-floor",
-      "Collision": []
-    }
-  ],
+  "Tiles": [],
   "Areas": [
     {
+      "Id": "eba87db1-ad9e-4082-bc34-eac5df286ea1",
       "Name": "Castle Entrance",
       "X": 0,
       "Y": 0,
       "Width": 2,
       "Height": 1,
-      "TileMap": [
-        {
-          "X": 0,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 1,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 2,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 3,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 4,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 5,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 6,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 7,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 8,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 9,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 10,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 11,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 12,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 13,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 14,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        },
-        {
-          "X": 15,
-          "Y": 11,
-          "Tile": "Outsidee Floor"
-        }
-      ]
+      "TileMap": []
+    },
+    {
+      "Id": "9a3fa953-b870-4755-a4b7-ca15ab5923a9",
+      "Name": "Lobby",
+      "X": 2,
+      "Y": 0,
+      "Width": 4,
+      "Height": 1,
+      "TileMap": []
+    },
+    {
+      "Id": "cdc9e14a-aed3-4d4a-a232-7d274b180f04",
+      "Name": "",
+      "X": 6,
+      "Y": 1,
+      "Width": 1,
+      "Height": 1,
+      "TileMap": []
+    },
+    {
+      "Id": "991c7e30-ac8a-4084-b642-7fa46168088f",
+      "Name": "",
+      "X": 6,
+      "Y": 0,
+      "Width": 1,
+      "Height": 1,
+      "TileMap": []
+    },
+    {
+      "Id": "53cd9e4a-bcb4-4097-bcb1-fa573aa42aa6",
+      "Name": "",
+      "X": 7,
+      "Y": 0,
+      "Width": 2,
+      "Height": 1,
+      "TileMap": []
     }
   ]
 }
