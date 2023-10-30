@@ -9,7 +9,15 @@
     "X": 0.0,
     "Y": 0.0
   },
-  "Tiles": [],
+  "Tiles": [
+    {
+      "Name": "Outside Floor",
+      "Id": "23871ddf-c6d8-4591-bf36-1c2288fc122a",
+      "Source": "level-01.dcsa",
+      "SpriteId": "996b2ecd-2321-463f-b75d-5c31555f0032",
+      "Collision": []
+    }
+  ],
   "Areas": [
     {
       "Id": "eba87db1-ad9e-4082-bc34-eac5df286ea1",

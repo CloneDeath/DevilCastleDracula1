@@ -9,11 +9,20 @@
     {
       "Name": "outside-floor",
       "X": 1,
-      "Y": 170,
+      "Y": 171,
       "Width": 16,
       "Height": 16,
-      "FlipHorizontal": true,
+      "FlipHorizontal": false,
       "Id": "996b2ecd-2321-463f-b75d-5c31555f0032"
+    },
+    {
+      "Name": "outside-sub-floor",
+      "X": 1,
+      "Y": 187,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "e2932090-2c0f-4c69-89aa-99b4f772612d"
     }
   ]
 }
