@@ -16,13 +16,58 @@
       "Id": "996b2ecd-2321-463f-b75d-5c31555f0032"
     },
     {
-      "Name": "outside-sub-floor",
+      "Name": "black",
       "X": 1,
       "Y": 187,
       "Width": 16,
       "Height": 16,
       "FlipHorizontal": false,
       "Id": "e2932090-2c0f-4c69-89aa-99b4f772612d"
+    },
+    {
+      "Name": "tree",
+      "X": 1,
+      "Y": 139,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "59fed984-12a6-4f54-9a6a-4f8b2802e4bf"
+    },
+    {
+      "Name": "statue",
+      "X": 34,
+      "Y": 123,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "6f2a6a01-ee0c-4be0-b55a-2280bb00a159"
+    },
+    {
+      "Name": "statue-base-center",
+      "X": 34,
+      "Y": 155,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "53af43aa-8b25-4bea-bae3-5aa5f9cc622e"
+    },
+    {
+      "Name": "statue-base-left",
+      "X": 561,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "3d9b8dd4-08ce-4bc9-b770-c60c8b3f43b5"
+    },
+    {
+      "Name": "statue-base-right",
+      "X": 609,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "cf2c79f3-1d0a-41ae-b2f2-e8504510d769"
     }
   ]
 }
