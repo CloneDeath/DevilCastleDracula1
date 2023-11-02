@@ -25,7 +25,7 @@
       "Id": "e2932090-2c0f-4c69-89aa-99b4f772612d"
     },
     {
-      "Name": "tree",
+      "Name": "Tree",
       "X": 1,
       "Y": 139,
       "Width": 32,
@@ -68,6 +68,87 @@
       "Height": 16,
       "FlipHorizontal": false,
       "Id": "cf2c79f3-1d0a-41ae-b2f2-e8504510d769"
+    },
+    {
+      "Name": "Tree Bottom",
+      "X": 1,
+      "Y": 107,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "5a816b63-8f77-4fd1-a10a-5a42b9973e92"
+    },
+    {
+      "Name": "Tree Middle",
+      "X": 1,
+      "Y": 75,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "e53be239-b9af-44c9-a013-66b637248913"
+    },
+    {
+      "Name": "Tree Top",
+      "X": 33,
+      "Y": 11,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "8d2af831-adae-44e4-a016-a411d734a541"
+    },
+    {
+      "Name": "Sky",
+      "X": 1,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "06f91697-376c-442e-b107-24ae807c5400"
+    },
+    {
+      "Name": "Fence",
+      "X": 66,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "77a75be3-2c92-4722-9bd1-e071036e17d1"
+    },
+    {
+      "Name": "Bush-Left",
+      "X": 545,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "ee0f0963-9dff-4998-823d-59a041621463"
+    },
+    {
+      "Name": "Bush Center",
+      "X": 625,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "410b76c0-fb4b-43b0-8e21-d34136d317f2"
+    },
+    {
+      "Name": "Bush Right",
+      "X": 641,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "46bcbc0e-ec79-4002-a789-4ece2b1ec223"
+    },
+    {
+      "Name": "Castle Shadow",
+      "X": 641,
+      "Y": 27,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "01a9e5e1-928b-4d75-b9e7-192b3c9dc337"
     }
   ]
 }
