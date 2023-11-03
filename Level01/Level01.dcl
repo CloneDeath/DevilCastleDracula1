@@ -15,7 +15,24 @@
       "Id": "23871ddf-c6d8-4591-bf36-1c2288fc122a",
       "Source": "level-01.dcsa",
       "SpriteId": "996b2ecd-2321-463f-b75d-5c31555f0032",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Width": 1,
       "Height": 1
     },
@@ -330,6 +347,15 @@
       "Id": "8a7d01ab-c49f-4f48-8308-b5081c5c2922",
       "Source": "level-01.dcsa",
       "SpriteId": "f52fc17f-981d-47ba-a008-8d28d3e31be7",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1
+    },
+    {
+      "Name": "",
+      "Id": "f9979de6-928c-4a37-80b3-2731b1ef1d23",
+      "Source": "level-01.dcsa",
+      "SpriteId": "00000000-0000-0000-0000-000000000000",
       "Collision": [],
       "Width": 1,
       "Height": 1
