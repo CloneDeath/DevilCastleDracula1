@@ -5,9 +5,9 @@
   "AreaWidth": 16,
   "AreaHeight": 12,
   "StartingPosition": {
-    "AreaId": "00000000-0000-0000-0000-000000000000",
-    "X": 0.0,
-    "Y": 0.0
+    "AreaId": "eba87db1-ad9e-4082-bc34-eac5df286ea1",
+    "X": 3,
+    "Y": 9
   },
   "Tiles": [
     {
@@ -2067,7 +2067,7 @@
     },
     {
       "Id": "cdc9e14a-aed3-4d4a-a232-7d274b180f04",
-      "Name": "",
+      "Name": "Cellar Bottom",
       "X": 7,
       "Y": 2,
       "Width": 1,
@@ -2076,7 +2076,7 @@
     },
     {
       "Id": "991c7e30-ac8a-4084-b642-7fa46168088f",
-      "Name": "",
+      "Name": "Cellar Top",
       "X": 7,
       "Y": 1,
       "Width": 1,
@@ -2085,7 +2085,7 @@
     },
     {
       "Id": "53cd9e4a-bcb4-4097-bcb1-fa573aa42aa6",
-      "Name": "",
+      "Name": "Boss Room",
       "X": 8,
       "Y": 1,
       "Width": 2,
