@@ -149,6 +149,186 @@
       "Height": 16,
       "FlipHorizontal": false,
       "Id": "01a9e5e1-928b-4d75-b9e7-192b3c9dc337"
+    },
+    {
+      "Name": "Castle Base Left",
+      "X": 657,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "13254362-01cd-452c-b3c1-ae86a5b4fda2"
+    },
+    {
+      "Name": "Castle Base Right",
+      "X": 673,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "b7cb6aa2-8a38-40d4-87c1-37a85a8b48e3"
+    },
+    {
+      "Name": "Castle Wall Left",
+      "X": 657,
+      "Y": 139,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "1bbdc35b-67a0-4cca-b2b2-6b57fcf4c6e4"
+    },
+    {
+      "Name": "Castle Window Left",
+      "X": 657,
+      "Y": 107,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "644ad15c-39cd-4e58-af91-092c9c977fa3"
+    },
+    {
+      "Name": "Castle Top",
+      "X": 657,
+      "Y": 59,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "e6649c9d-9d98-4786-9fea-e6e53c5bc08b"
+    },
+    {
+      "Name": "Castle Wall Right",
+      "X": 673,
+      "Y": 107,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "37c41c6e-877b-4d47-a197-c407b1594c0f"
+    },
+    {
+      "Name": "Castle Wall Right 2",
+      "X": 673,
+      "Y": 123,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "6a039560-17cb-43e7-b4c2-dcf8a027ee9a"
+    },
+    {
+      "Name": "Castle Wall Right 3",
+      "X": 673,
+      "Y": 139,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "d1607845-ed65-4977-b4c5-2f8b0f00630a"
+    },
+    {
+      "Name": "Castle Wall Right Arch",
+      "X": 673,
+      "Y": 75,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "898a6faf-b047-4471-bcce-6cc09da2ff24"
+    },
+    {
+      "Name": "Castle Wall Arch",
+      "X": 689,
+      "Y": 75,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "e30d5ce2-43a4-4eaa-a522-528a418dada4"
+    },
+    {
+      "Name": "Castle Wall Left 2",
+      "X": 705,
+      "Y": 91,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "90fed809-3540-4bbd-bf37-d1bddc4c4b89"
+    },
+    {
+      "Name": "Castle Wall",
+      "X": 721,
+      "Y": 91,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "508d5605-83a9-480f-a6d1-52bb6ee6f068"
+    },
+    {
+      "Name": "Bush 1",
+      "X": 721,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "dfc52e80-d58b-4e61-8699-b9bf0ee234be"
+    },
+    {
+      "Name": "Bush 2",
+      "X": 737,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "a1fb8c37-d62c-43cb-8d7a-8dd80a3d9596"
+    },
+    {
+      "Name": "Bush 3",
+      "X": 722,
+      "Y": 139,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "79c7d4ed-6607-4cda-b89c-c9d9a5a8ee20"
+    },
+    {
+      "Name": "Bush 4",
+      "X": 738,
+      "Y": 139,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "e33c637c-4524-4645-ac8a-a46b2c6d42f6"
+    },
+    {
+      "Name": "Castle Reticulation Left",
+      "X": 674,
+      "Y": 27,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "d448df27-fddd-4c59-b47c-658b8a6c8064"
+    },
+    {
+      "Name": "Castle Reticulation Window",
+      "X": 690,
+      "Y": 27,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "32a80575-ae56-445c-aada-9eaf5f0364e6"
+    },
+    {
+      "Name": "Castle Half Left",
+      "X": 674,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "76490996-e21c-4104-a4e5-31ef1358fa16"
+    },
+    {
+      "Name": "Castle Wall Right 3",
+      "X": 673,
+      "Y": 91,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "f52fc17f-981d-47ba-a008-8d28d3e31be7"
     }
   ]
 }
