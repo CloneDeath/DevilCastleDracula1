@@ -329,6 +329,123 @@
       "Height": 16,
       "FlipHorizontal": false,
       "Id": "f52fc17f-981d-47ba-a008-8d28d3e31be7"
+    },
+    {
+      "Name": "Hall Floor",
+      "X": 774,
+      "Y": 187,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "54b28b67-9595-4222-a844-4c453ff0303d"
+    },
+    {
+      "Name": "Hall Wall 1",
+      "X": 774,
+      "Y": 11,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "839798c0-d6a7-425b-b1a8-1e8687bf913e"
+    },
+    {
+      "Name": "Hall Wall 2",
+      "X": 774,
+      "Y": 43,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "4e11dff8-5522-4556-a3d6-260247c40237"
+    },
+    {
+      "Name": "Hall Wall 3",
+      "X": 870,
+      "Y": 43,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "88e0aca5-5263-4a93-bd1a-2bc18dafbfe4"
+    },
+    {
+      "Name": "Hall Wall 4",
+      "X": 774,
+      "Y": 171,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "9eb1676c-81e5-4d43-b773-9fde845b7fbd"
+    },
+    {
+      "Name": "Pillar Top",
+      "X": 806,
+      "Y": 11,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "c56de90f-ad29-4417-bf15-6baae6fdc221"
+    },
+    {
+      "Name": "Pillar Middle",
+      "X": 806,
+      "Y": 27,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "0496171a-16aa-4b60-8fad-56aa69509478"
+    },
+    {
+      "Name": "Pillar Bottom",
+      "X": 806,
+      "Y": 171,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "4e33d877-5f38-45af-b39a-dfaf3b6356fc"
+    },
+    {
+      "Name": "Curtain Top",
+      "X": 838,
+      "Y": 11,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "9814f6cd-70d0-4c05-8aac-c7a285e43c75"
+    },
+    {
+      "Name": "Curtain Middle",
+      "X": 838,
+      "Y": 43,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "7cccc3e4-6cef-4ee1-a58c-9ea52cd29ce9"
+    },
+    {
+      "Name": "Curtain Bottom",
+      "X": 838,
+      "Y": 75,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "12d57770-d57b-404b-bf66-c6c1091bae69"
+    },
+    {
+      "Name": "Window",
+      "X": 870,
+      "Y": 75,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "4d962d81-7f13-4b30-b97d-b1402aaca40b"
+    },
+    {
+      "Name": "Curtain Top 2",
+      "X": 1094,
+      "Y": 11,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "db22c5a8-07d4-4abc-8b5d-dad5507b82b2"
     }
   ]
 }
