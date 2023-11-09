@@ -446,6 +446,267 @@
       "Height": 32,
       "FlipHorizontal": false,
       "Id": "db22c5a8-07d4-4abc-8b5d-dad5507b82b2"
+    },
+    {
+      "Name": "Stairs Up",
+      "X": 1398,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "9a85dda3-4cc5-4f44-a916-49fd176a0fe0"
+    },
+    {
+      "Name": "Stairs Down",
+      "X": 1686,
+      "Y": 91,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "e3081467-a4ce-4b2a-83da-eba73d436ec5"
+    },
+    {
+      "Name": "Below Stair Up 1",
+      "X": 1510,
+      "Y": 107,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "f67a9bd2-d97c-43de-8554-86fbe6cd2424"
+    },
+    {
+      "Name": "Below Stair Down",
+      "X": 1670,
+      "Y": 107,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "36ad5d0e-7702-4922-8ff3-1de8271dabc3"
+    },
+    {
+      "Name": "Below Stair Up 2",
+      "X": 1430,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "2936c645-efaa-4eca-af94-4ab1311b240d"
+    },
+    {
+      "Name": "Stair Up Rail Start",
+      "X": 1382,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "c2272216-7cd7-471d-8d12-2c3672abf455"
+    },
+    {
+      "Name": "Stair Up Mid 1",
+      "X": 1382,
+      "Y": 139,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "a4443a3e-31de-44f2-9d68-1be60bbcf20c"
+    },
+    {
+      "Name": "Stair Up Mid 2",
+      "X": 1414,
+      "Y": 139,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "bd878f05-10c4-4f3d-90a0-4e409f003095"
+    },
+    {
+      "Name": "Fence 1",
+      "X": 1462,
+      "Y": 107,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "490fded2-3df8-421d-a4d6-865507cc6a47"
+    },
+    {
+      "Name": "Fence 2",
+      "X": 1670,
+      "Y": 75,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "5fafb936-7059-404c-9cac-5bfcc573cfd1"
+    },
+    {
+      "Name": "Stair Up Mid 3",
+      "X": 1510,
+      "Y": 75,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "21d380ea-9ffb-4db0-b931-4edc4f5e7e6b"
+    },
+    {
+      "Name": "Stairs Down Rail Top",
+      "X": 1686,
+      "Y": 75,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "3cbe1335-9bfe-4466-a6cb-7e56e97e5cf7"
+    },
+    {
+      "Name": "Stairs Down Rail Mid",
+      "X": 1702,
+      "Y": 75,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "695129cf-b7d6-40cd-a996-b825d68ecf5e"
+    },
+    {
+      "Name": "Stairs Down Rail Bottom",
+      "X": 1718,
+      "Y": 107,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "36731039-59ce-464b-ac39-1a9bbcfecbe5"
+    },
+    {
+      "Name": "Half Wall Right",
+      "X": 2294,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "c115dff0-17ca-44c8-b291-eb634e2d8e83"
+    },
+    {
+      "Name": "Crypt Transition 1",
+      "X": 2278,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "b44522b5-1cbe-4e8f-8791-702489b5240f"
+    },
+    {
+      "Name": "Crypt Transition 2",
+      "X": 2278,
+      "Y": 27,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "211232d8-9c8e-4c87-953c-bdba9bf0f419"
+    },
+    {
+      "Name": "Crypt Transition 3",
+      "X": 2278,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "0691e6b7-2d1a-41ec-b220-d47f1ac815f6"
+    },
+    {
+      "Name": "Door",
+      "X": 2294,
+      "Y": 43,
+      "Width": 16,
+      "Height": 48,
+      "FlipHorizontal": false,
+      "Id": "f5591e47-4b8c-47b8-9fde-7c74945755cd"
+    },
+    {
+      "Name": "Crypt Wall 1",
+      "X": 2331,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "b43bf975-0414-4ea2-bdbe-a220e46d4bdf"
+    },
+    {
+      "Name": "Crypt Wall Damage",
+      "X": 2347,
+      "Y": 43,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "9c39882b-7ed6-49cf-aa21-b573add1848f"
+    },
+    {
+      "Name": "Crypt Wall Hole",
+      "X": 2347,
+      "Y": 107,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "52ac76a0-f0fe-4805-b4b4-86d8ae2acbbd"
+    },
+    {
+      "Name": "Half Wall Left",
+      "X": 2315,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "65d3ab18-36d9-448b-b275-59cfd4d6731f"
+    },
+    {
+      "Name": "Crypt Pillar Bottom",
+      "X": 2411,
+      "Y": 75,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "73c5491e-ab48-40ac-9e70-1b187adced69"
+    },
+    {
+      "Name": "Crypt Pillar Mid Damage",
+      "X": 2411,
+      "Y": 43,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "dc986533-61de-4d64-8145-c6109d653b30"
+    },
+    {
+      "Name": "Crypt Pillar Mid",
+      "X": 2411,
+      "Y": 11,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "6782c6bc-7716-4179-a570-f5a79f5c0b98"
+    },
+    {
+      "Name": "Crypt Pillar Top",
+      "X": 2635,
+      "Y": 123,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "b22182c1-6379-47ad-a62b-87f5e857fbf9"
+    },
+    {
+      "Name": "Solid 4",
+      "X": 2571,
+      "Y": 123,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "1c67580c-71d9-4110-b6e7-cae3f3c35f54"
+    },
+    {
+      "Name": "Solid 3",
+      "X": 2571,
+      "Y": 107,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "6e4c4a62-4a5a-444e-a70d-ac908500038f"
     }
   ]
 }

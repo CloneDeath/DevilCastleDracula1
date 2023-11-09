@@ -4,17 +4,12 @@
   "WalkSpeed": 3.0,
   "JumpHeight": 6.0,
   "Gravity": 10.0,
-  "Height": 16.0,
+  "Height": 32.0,
   "Width": 16.0,
   "Animations": [
     {
       "Name": "walk",
       "Frames": [
-        {
-          "Duration": 0.25,
-          "SpriteId": "01842a92-73f2-438f-838d-9d6641eecc10",
-          "Source": "Simon.dcsa"
-        },
         {
           "Duration": 0.25,
           "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
@@ -28,6 +23,11 @@
         {
           "Duration": 0.25,
           "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
+          "Source": "Simon.dcsa"
+        },
+        {
+          "Duration": 0.25,
+          "SpriteId": "01842a92-73f2-438f-838d-9d6641eecc10",
           "Source": "Simon.dcsa"
         }
       ]
