@@ -1,11 +1,11 @@
 {
-  "Name": "character",
+  "Name": "Simon",
   "Enabled": true,
   "WalkSpeed": 3.0,
   "JumpHeight": 6.0,
   "Gravity": 10.0,
-  "Height": 32.0,
-  "Width": 16.0,
+  "Height": 30.0,
+  "Width": 14.0,
   "Animations": [
     {
       "Name": "walk",

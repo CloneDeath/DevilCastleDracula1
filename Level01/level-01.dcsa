@@ -707,6 +707,177 @@
       "Height": 16,
       "FlipHorizontal": false,
       "Id": "6e4c4a62-4a5a-444e-a70d-ac908500038f"
+    },
+    {
+      "Name": "Crypt Stairs Down Rail",
+      "X": 2363,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "212bb2a3-183a-43fc-9b73-10650ab005bc"
+    },
+    {
+      "Name": "Crypt Window",
+      "X": 2475,
+      "Y": 43,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "f8e67716-6cad-4f98-9d89-248ba35dc4eb"
+    },
+    {
+      "Name": "Crypt Under Stairs",
+      "X": 2507,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "db5f7b80-6549-475a-860b-4263f0be3686"
+    },
+    {
+      "Name": "Crypt Stairs Down",
+      "X": 2363,
+      "Y": 187,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "c11eca49-752f-4a17-a733-62ed1f124cff"
+    },
+    {
+      "Name": "Crypt Rail Down Bottom",
+      "X": 2555,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "284649d8-f23c-4ab8-b648-9e2c7aa0a67d"
+    },
+    {
+      "Name": "Crypt Pillar 2 Left",
+      "X": 2795,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "cdafb50d-43cf-4697-8b88-cd22005c051f"
+    },
+    {
+      "Name": "Crypt Pillar 2 Left Orange",
+      "X": 2795,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "5641a47e-dd46-4df6-97d6-bfa43aa198b9"
+    },
+    {
+      "Name": "Crypt Pillar 2 Right",
+      "X": 2811,
+      "Y": 171,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "3672e6d7-bda3-45cb-9c46-80b6733d8916"
+    },
+    {
+      "Name": "Crypt B Stairs Down",
+      "X": 2363,
+      "Y": 218,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "21081b26-f491-4fc2-b6e5-0bca78a481e6"
+    },
+    {
+      "Name": "Crypt B Stairs",
+      "X": 2347,
+      "Y": 218,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "f9bc4dfa-f331-4bfe-86ad-6c7f31bfb635"
+    },
+    {
+      "Name": "Stalactite A",
+      "X": 2347,
+      "Y": 330,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "83e3317a-6f2e-4f37-83f9-4a9cb7198728"
+    },
+    {
+      "Name": "Stalactite B",
+      "X": 2443,
+      "Y": 330,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "e02fa8e8-ac04-469e-bbbe-e74af5b6bd89"
+    },
+    {
+      "Name": "XXXX",
+      "X": 2795,
+      "Y": 362,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "eba408e6-3679-49fa-9f42-a1b40ff03f19"
+    },
+    {
+      "Name": "Stalagmite",
+      "X": 2699,
+      "Y": 346,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "6fd43805-953e-4ec4-8b3c-91174d0aa7bb"
+    },
+    {
+      "Name": "Sewer Grate",
+      "X": 2667,
+      "Y": 346,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "c2b1f437-2d85-40b1-892c-5f99bce91918"
+    },
+    {
+      "Name": "Water",
+      "X": 2315,
+      "Y": 378,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "4737bceb-e16d-4183-8b32-a2df9b593efb"
+    },
+    {
+      "Name": "Under Stairs 2",
+      "X": 3152,
+      "Y": 155,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "1f9c3c50-bbfe-42d3-9606-072079a8191b"
+    },
+    {
+      "Name": "Arch Right",
+      "X": 3184,
+      "Y": 11,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "786fa02d-0182-410d-b8a1-3d0d892a10f0"
+    },
+    {
+      "Name": "Arch Left",
+      "X": 3248,
+      "Y": 11,
+      "Width": 32,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "f928bd8d-e0f3-4ece-aa93-7e47e5b5284e"
     }
   ]
 }

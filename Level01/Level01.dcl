@@ -5,9 +5,9 @@
   "AreaWidth": 16,
   "AreaHeight": 12,
   "StartingPosition": {
-    "AreaId": "eba87db1-ad9e-4082-bc34-eac5df286ea1",
-    "X": 3,
-    "Y": 9
+    "AreaId": "9a3fa953-b870-4755-a4b7-ca15ab5923a9",
+    "X": 30,
+    "Y": 10
   },
   "Tiles": [
     {
@@ -827,7 +827,24 @@
       "Id": "6499db3f-adad-4a32-aba5-63fb0ce03fe5",
       "Source": "level-01.dcsa",
       "SpriteId": "1c67580c-71d9-4110-b6e7-cae3f3c35f54",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Width": 1,
       "Height": 1,
       "Stairs": null
@@ -837,9 +854,251 @@
       "Id": "978f46e2-2a50-40ea-b0ea-8d20850ca918",
       "Source": "level-01.dcsa",
       "SpriteId": "6e4c4a62-4a5a-444e-a70d-ac908500038f",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Stairs Down Rail",
+      "Id": "f63c2f89-7010-432f-b314-bec9d3812482",
+      "Source": "level-01.dcsa",
+      "SpriteId": "212bb2a3-183a-43fc-9b73-10650ab005bc",
       "Collision": [],
       "Width": 1,
       "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Window",
+      "Id": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4",
+      "Source": "level-01.dcsa",
+      "SpriteId": "f8e67716-6cad-4f98-9d89-248ba35dc4eb",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Under Stairs",
+      "Id": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2",
+      "Source": "level-01.dcsa",
+      "SpriteId": "db5f7b80-6549-475a-860b-4263f0be3686",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Stairs Down",
+      "Id": "36d6801c-cb66-44f4-917d-cc05fbc9995a",
+      "Source": "level-01.dcsa",
+      "SpriteId": "c11eca49-752f-4a17-a733-62ed1f124cff",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": {
+        "Start": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "End": {
+          "X": 1.0,
+          "Y": 1.0
+        }
+      }
+    },
+    {
+      "Name": "Crypt Rail Down Bottom",
+      "Id": "acd4d100-8f57-4793-8e6b-33c6f3153aa1",
+      "Source": "level-01.dcsa",
+      "SpriteId": "284649d8-f23c-4ab8-b648-9e2c7aa0a67d",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Pillar 2 Left",
+      "Id": "d6607371-fbd9-48ef-9952-277863a79f25",
+      "Source": "level-01.dcsa",
+      "SpriteId": "cdafb50d-43cf-4697-8b88-cd22005c051f",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Pillar 2 Left Orange",
+      "Id": "e80e60d0-2630-457e-85f2-e9d24f2683b5",
+      "Source": "level-01.dcsa",
+      "SpriteId": "5641a47e-dd46-4df6-97d6-bfa43aa198b9",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt Pillar 2 Right",
+      "Id": "f6bc83b3-a874-4375-84d1-c992df4640c2",
+      "Source": "level-01.dcsa",
+      "SpriteId": "3672e6d7-bda3-45cb-9c46-80b6733d8916",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt B Stairs Down",
+      "Id": "a519fd89-0e28-40bc-ac06-2a8574ddac1c",
+      "Source": "level-01.dcsa",
+      "SpriteId": "21081b26-f491-4fc2-b6e5-0bca78a481e6",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Crypt B Stairs",
+      "Id": "e9b3d896-8101-4b00-9e54-f209c7315a76",
+      "Source": "level-01.dcsa",
+      "SpriteId": "f9bc4dfa-f331-4bfe-86ad-6c7f31bfb635",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": {
+        "Start": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "End": {
+          "X": 1.0,
+          "Y": 1.0
+        }
+      }
+    },
+    {
+      "Name": "Stalactite A",
+      "Id": "a1f96889-b849-48ad-9aa8-f33fc042ac7f",
+      "Source": "level-01.dcsa",
+      "SpriteId": "83e3317a-6f2e-4f37-83f9-4a9cb7198728",
+      "Collision": [],
+      "Width": 2,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Stalactite B",
+      "Id": "02eb604e-1fb9-4ea4-b4f9-ff62198527a1",
+      "Source": "level-01.dcsa",
+      "SpriteId": "e02fa8e8-ac04-469e-bbbe-e74af5b6bd89",
+      "Collision": [],
+      "Width": 2,
+      "Height": 2,
+      "Stairs": null
+    },
+    {
+      "Name": "Stalactite C",
+      "Id": "048ae165-2079-48d5-9e8a-8e16192818c0",
+      "Source": "level-01.dcsa",
+      "SpriteId": "eba408e6-3679-49fa-9f42-a1b40ff03f19",
+      "Collision": [],
+      "Width": 2,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Stalactite C",
+      "Id": "5d54a5de-0470-4fed-b572-385467ade222",
+      "Source": "level-01.dcsa",
+      "SpriteId": "6fd43805-953e-4ec4-8b3c-91174d0aa7bb",
+      "Collision": [],
+      "Width": 2,
+      "Height": 2,
+      "Stairs": null
+    },
+    {
+      "Name": "Sewer Grate",
+      "Id": "b5b147a4-0fe2-485f-9f27-bcafff600e87",
+      "Source": "level-01.dcsa",
+      "SpriteId": "c2b1f437-2d85-40b1-892c-5f99bce91918",
+      "Collision": [],
+      "Width": 2,
+      "Height": 2,
+      "Stairs": null
+    },
+    {
+      "Name": "Water",
+      "Id": "c918b923-024f-41fd-bb64-fe4707a67bfd",
+      "Source": "level-01.dcsa",
+      "SpriteId": "4737bceb-e16d-4183-8b32-a2df9b593efb",
+      "Collision": [],
+      "Width": 2,
+      "Height": 2,
+      "Stairs": null
+    },
+    {
+      "Name": "Under Stairs 2",
+      "Id": "7c503a9a-05c8-42ec-bd20-06943f45279f",
+      "Source": "level-01.dcsa",
+      "SpriteId": "1f9c3c50-bbfe-42d3-9606-072079a8191b",
+      "Collision": [],
+      "Width": 1,
+      "Height": 1,
+      "Stairs": null
+    },
+    {
+      "Name": "Arch Left",
+      "Id": "3f0d3928-65d8-44c2-8a55-64cd0c1e4a9a",
+      "Source": "level-01.dcsa",
+      "SpriteId": "f928bd8d-e0f3-4ece-aa93-7e47e5b5284e",
+      "Collision": [],
+      "Width": 2,
+      "Height": 2,
+      "Stairs": null
+    },
+    {
+      "Name": "Arch Right",
+      "Id": "f49021db-7119-417f-8bd8-8a57ff681713",
+      "Source": "level-01.dcsa",
+      "SpriteId": "786fa02d-0182-410d-b8a1-3d0d892a10f0",
+      "Collision": [],
+      "Width": 2,
+      "Height": 2,
       "Stairs": null
     }
   ],
@@ -5320,52 +5579,52 @@
         {
           "X": 2,
           "Y": 0,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 3,
           "Y": 1,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 4,
           "Y": 2,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 5,
           "Y": 3,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 22,
           "Y": 0,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 23,
           "Y": 1,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 24,
           "Y": 2,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 25,
           "Y": 3,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 26,
           "Y": 4,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 27,
           "Y": 5,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "e9b3d896-8101-4b00-9e54-f209c7315a76"
         },
         {
           "X": 0,
@@ -5586,6 +5845,826 @@
           "X": 28,
           "Y": 5,
           "TileId": "42be9ff3-fefa-49ba-a337-e8195e1a9ffe"
+        },
+        {
+          "X": 31,
+          "Y": 7,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 6,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 5,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 4,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 3,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 2,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 1,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 0,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 30,
+          "Y": 0,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 1,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 2,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 3,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 4,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 5,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 6,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 7,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 3,
+          "Y": 0,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 4,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 5,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 5,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 2,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 2,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 2,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 3,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 3,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 3,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 3,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 4,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 0,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 6,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 2,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 4,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 8,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 10,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 12,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 14,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 16,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 18,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 20,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 22,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 24,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 26,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 30,
+          "Y": 10,
+          "TileId": "c918b923-024f-41fd-bb64-fe4707a67bfd"
+        },
+        {
+          "X": 30,
+          "Y": 9,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 2,
+          "Y": 7,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 4,
+          "Y": 7,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 10,
+          "Y": 7,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 8,
+          "Y": 7,
+          "TileId": "02eb604e-1fb9-4ea4-b4f9-ff62198527a1"
+        },
+        {
+          "X": 10,
+          "Y": 8,
+          "TileId": "b5b147a4-0fe2-485f-9f27-bcafff600e87"
+        },
+        {
+          "X": 2,
+          "Y": 8,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 2,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 3,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 3,
+          "Y": 8,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 4,
+          "Y": 8,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 5,
+          "Y": 8,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 5,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 4,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 8,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 10,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 11,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 11,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 11,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 11,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 11,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 11,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 10,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 9,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 10,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 10,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 10,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 10,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 8,
+          "TileId": "5d54a5de-0470-4fed-b572-385467ade222"
+        },
+        {
+          "X": 18,
+          "Y": 8,
+          "TileId": "5d54a5de-0470-4fed-b572-385467ade222"
+        },
+        {
+          "X": 14,
+          "Y": 7,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 6,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 14,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 6,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 15,
+          "Y": 7,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 7,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 6,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 18,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 4,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 5,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 6,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 19,
+          "Y": 7,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 24,
+          "Y": 8,
+          "TileId": "5d54a5de-0470-4fed-b572-385467ade222"
+        },
+        {
+          "X": 22,
+          "Y": 8,
+          "TileId": "b5b147a4-0fe2-485f-9f27-bcafff600e87"
+        },
+        {
+          "X": 22,
+          "Y": 7,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 24,
+          "Y": 7,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 26,
+          "Y": 7,
+          "TileId": "a1f96889-b849-48ad-9aa8-f33fc042ac7f"
+        },
+        {
+          "X": 26,
+          "Y": 8,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 26,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 27,
+          "Y": 9,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 27,
+          "Y": 8,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 23,
+          "Y": 0,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 24,
+          "Y": 1,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 25,
+          "Y": 2,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 26,
+          "Y": 3,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 27,
+          "Y": 4,
+          "TileId": "a519fd89-0e28-40bc-ac06-2a8574ddac1c"
+        },
+        {
+          "X": 24,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 25,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 26,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 27,
+          "Y": 0,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 27,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 27,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 27,
+          "Y": 3,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 26,
+          "Y": 2,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 26,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 25,
+          "Y": 1,
+          "TileId": "33b2f71a-0283-4a61-bdf6-26ab0505dd20"
+        },
+        {
+          "X": 22,
+          "Y": 1,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 22,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 22,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 22,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 22,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 23,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 24,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 25,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 26,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 25,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 24,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 23,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 23,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 23,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 24,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
         }
       ]
     },
@@ -5850,7 +6929,7 @@
         {
           "X": 11,
           "Y": 7,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "36d6801c-cb66-44f4-917d-cc05fbc9995a"
         },
         {
           "X": 12,
@@ -5870,17 +6949,17 @@
         {
           "X": 3,
           "Y": 11,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "36d6801c-cb66-44f4-917d-cc05fbc9995a"
         },
         {
           "X": 23,
           "Y": 11,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "36d6801c-cb66-44f4-917d-cc05fbc9995a"
         },
         {
           "X": 25,
           "Y": 7,
-          "TileId": "3df4ae1c-6aa9-47bc-9012-d0603f745a20"
+          "TileId": "36d6801c-cb66-44f4-917d-cc05fbc9995a"
         },
         {
           "X": 26,
@@ -6826,6 +7905,316 @@
           "X": 31,
           "Y": 2,
           "TileId": "a8a18db9-770d-45aa-87a4-569784c6b184"
+        },
+        {
+          "X": 3,
+          "Y": 10,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 11,
+          "Y": 6,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 25,
+          "Y": 6,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 10,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 24,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 22,
+          "Y": 10,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 23,
+          "Y": 10,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 12,
+          "Y": 7,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 13,
+          "Y": 8,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 14,
+          "Y": 9,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 15,
+          "Y": 10,
+          "TileId": "acd4d100-8f57-4793-8e6b-33c6f3153aa1"
+        },
+        {
+          "X": 29,
+          "Y": 10,
+          "TileId": "acd4d100-8f57-4793-8e6b-33c6f3153aa1"
+        },
+        {
+          "X": 12,
+          "Y": 9,
+          "TileId": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2"
+        },
+        {
+          "X": 13,
+          "Y": 10,
+          "TileId": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2"
+        },
+        {
+          "X": 12,
+          "Y": 6,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 13,
+          "Y": 6,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 13,
+          "Y": 7,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 14,
+          "Y": 8,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 15,
+          "Y": 8,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 15,
+          "Y": 9,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 10,
+          "Y": 2,
+          "TileId": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4"
+        },
+        {
+          "X": 12,
+          "Y": 2,
+          "TileId": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4"
+        },
+        {
+          "X": 14,
+          "Y": 2,
+          "TileId": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4"
+        },
+        {
+          "X": 11,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 11,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 10,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 12,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 13,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 13,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 14,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 15,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 15,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 31,
+          "Y": 0,
+          "TileId": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2"
+        },
+        {
+          "X": 26,
+          "Y": 2,
+          "TileId": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4"
+        },
+        {
+          "X": 28,
+          "Y": 2,
+          "TileId": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4"
+        },
+        {
+          "X": 27,
+          "Y": 2,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 27,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 27,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 26,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 26,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 28,
+          "Y": 3,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 28,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 26,
+          "Y": 9,
+          "TileId": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2"
+        },
+        {
+          "X": 27,
+          "Y": 10,
+          "TileId": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2"
+        },
+        {
+          "X": 26,
+          "Y": 7,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 27,
+          "Y": 8,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 28,
+          "Y": 9,
+          "TileId": "f63c2f89-7010-432f-b314-bec9d3812482"
+        },
+        {
+          "X": 26,
+          "Y": 6,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 27,
+          "Y": 6,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 27,
+          "Y": 7,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 28,
+          "Y": 8,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 29,
+          "Y": 9,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 30,
+          "Y": 10,
+          "TileId": "d6607371-fbd9-48ef-9952-277863a79f25"
+        },
+        {
+          "X": 30,
+          "Y": 9,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 8,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 7,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 30,
+          "Y": 6,
+          "TileId": "e80e60d0-2630-457e-85f2-e9d24f2683b5"
+        },
+        {
+          "X": 31,
+          "Y": 10,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 9,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 8,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 7,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
+        },
+        {
+          "X": 31,
+          "Y": 6,
+          "TileId": "f6bc83b3-a874-4375-84d1-c992df4640c2"
         }
       ]
     },
@@ -7666,6 +9055,566 @@
           "X": 2,
           "Y": 8,
           "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 4,
+          "Y": 0,
+          "TileId": "43ddeb0f-042d-489f-a401-4d9ff09423eb"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 10,
+          "Y": 5,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 10,
+          "Y": 4,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 10,
+          "Y": 3,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 10,
+          "Y": 2,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 10,
+          "Y": 1,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 16,
+          "Y": 5,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 16,
+          "Y": 4,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 16,
+          "Y": 3,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 16,
+          "Y": 2,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 16,
+          "Y": 1,
+          "TileId": "a3f760b9-915d-4162-ab1d-1d729e3746a6"
+        },
+        {
+          "X": 10,
+          "Y": 0,
+          "TileId": "43ddeb0f-042d-489f-a401-4d9ff09423eb"
+        },
+        {
+          "X": 16,
+          "Y": 0,
+          "TileId": "43ddeb0f-042d-489f-a401-4d9ff09423eb"
+        },
+        {
+          "X": 10,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 11,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 16,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 17,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 47,
+          "Y": 8,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 9,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 10,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 0,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 1,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 2,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 3,
+          "TileId": "1556e645-6610-4dbe-9fdb-9bfe03154de9"
+        },
+        {
+          "X": 47,
+          "Y": 4,
+          "TileId": "a8a18db9-770d-45aa-87a4-569784c6b184"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "TileId": "918651b7-9c6a-4091-b158-f20516e1e2d2"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 0,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 3,
+          "Y": 4,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 2,
+          "Y": 4,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 6,
+          "Y": 2,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 8,
+          "Y": 2,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 8,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 6,
+          "Y": 0,
+          "TileId": "918651b7-9c6a-4091-b158-f20516e1e2d2"
+        },
+        {
+          "X": 6,
+          "Y": 4,
+          "TileId": "ba012d16-8f2e-42e3-acef-16ba650c17ae"
+        },
+        {
+          "X": 8,
+          "Y": 4,
+          "TileId": "ce98bf2b-74de-41c8-87e2-2cebb0aa95d2"
+        },
+        {
+          "X": 7,
+          "Y": 4,
+          "TileId": "dd21666f-f1e9-486e-a66b-e53928194290"
+        },
+        {
+          "X": 9,
+          "Y": 6,
+          "TileId": "d699aecc-f216-458c-809a-876da3951230"
+        },
+        {
+          "X": 6,
+          "Y": 6,
+          "TileId": "9d6fa919-8df8-4f2a-836b-e770e617e26d"
+        },
+        {
+          "X": 8,
+          "Y": 8,
+          "TileId": "69d213e4-2fd6-4097-a376-0c38051ef1eb"
+        },
+        {
+          "X": 6,
+          "Y": 8,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 18,
+          "Y": 8,
+          "TileId": "9d6fa919-8df8-4f2a-836b-e770e617e26d"
+        },
+        {
+          "X": 12,
+          "Y": 8,
+          "TileId": "918651b7-9c6a-4091-b158-f20516e1e2d2"
+        },
+        {
+          "X": 16,
+          "Y": 8,
+          "TileId": "918651b7-9c6a-4091-b158-f20516e1e2d2"
+        },
+        {
+          "X": 20,
+          "Y": 9,
+          "TileId": "7c503a9a-05c8-42ec-bd20-06943f45279f"
+        },
+        {
+          "X": 12,
+          "Y": 6,
+          "TileId": "0394c5b2-b5d3-4446-9ad9-086b9bc2b577"
+        },
+        {
+          "X": 14,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 15,
+          "Y": 6,
+          "TileId": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc"
+        },
+        {
+          "X": 12,
+          "Y": 4,
+          "TileId": "8c202ec5-c6d8-40d3-bc4e-0ff8909fc0c4"
+        },
+        {
+          "X": 12,
+          "Y": 2,
+          "TileId": "8c202ec5-c6d8-40d3-bc4e-0ff8909fc0c4"
+        },
+        {
+          "X": 12,
+          "Y": 0,
+          "TileId": "69d213e4-2fd6-4097-a376-0c38051ef1eb"
+        },
+        {
+          "X": 14,
+          "Y": 4,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 14,
+          "Y": 2,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 14,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 18,
+          "Y": 0,
+          "TileId": "10e68bf7-9a53-4baf-9c94-2eb6d7077fcc"
+        },
+        {
+          "X": 18,
+          "Y": 2,
+          "TileId": "2b2319ec-4a6e-4eb0-b175-b335e50df040"
+        },
+        {
+          "X": 18,
+          "Y": 4,
+          "TileId": "eafa6947-f2cd-4e32-9ebe-1ff07c9e3b3e"
+        },
+        {
+          "X": 18,
+          "Y": 6,
+          "TileId": "6317bdcc-f084-4916-a005-437fb2206cc7"
+        },
+        {
+          "X": 19,
+          "Y": 6,
+          "TileId": "dd21666f-f1e9-486e-a66b-e53928194290"
+        },
+        {
+          "X": 20,
+          "Y": 6,
+          "TileId": "ce98bf2b-74de-41c8-87e2-2cebb0aa95d2"
+        },
+        {
+          "X": 22,
+          "Y": 8,
+          "TileId": "ce98bf2b-74de-41c8-87e2-2cebb0aa95d2"
+        },
+        {
+          "X": 23,
+          "Y": 10,
+          "TileId": "d699aecc-f216-458c-809a-876da3951230"
+        },
+        {
+          "X": 21,
+          "Y": 8,
+          "TileId": "dd21666f-f1e9-486e-a66b-e53928194290"
+        },
+        {
+          "X": 20,
+          "Y": 0,
+          "TileId": "9d6fa919-8df8-4f2a-836b-e770e617e26d"
+        },
+        {
+          "X": 20,
+          "Y": 2,
+          "TileId": "918651b7-9c6a-4091-b158-f20516e1e2d2"
+        },
+        {
+          "X": 20,
+          "Y": 4,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 22,
+          "Y": 6,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 22,
+          "Y": 4,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 22,
+          "Y": 2,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 24,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 32,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 40,
+          "Y": 0,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 22,
+          "Y": 0,
+          "TileId": "f49021db-7119-417f-8bd8-8a57ff681713"
+        },
+        {
+          "X": 30,
+          "Y": 0,
+          "TileId": "f49021db-7119-417f-8bd8-8a57ff681713"
+        },
+        {
+          "X": 38,
+          "Y": 0,
+          "TileId": "f49021db-7119-417f-8bd8-8a57ff681713"
+        },
+        {
+          "X": 38,
+          "Y": 2,
+          "TileId": "f49021db-7119-417f-8bd8-8a57ff681713"
+        },
+        {
+          "X": 30,
+          "Y": 2,
+          "TileId": "f49021db-7119-417f-8bd8-8a57ff681713"
+        },
+        {
+          "X": 26,
+          "Y": 0,
+          "TileId": "3f0d3928-65d8-44c2-8a55-64cd0c1e4a9a"
+        },
+        {
+          "X": 26,
+          "Y": 2,
+          "TileId": "3f0d3928-65d8-44c2-8a55-64cd0c1e4a9a"
+        },
+        {
+          "X": 34,
+          "Y": 2,
+          "TileId": "3f0d3928-65d8-44c2-8a55-64cd0c1e4a9a"
+        },
+        {
+          "X": 34,
+          "Y": 0,
+          "TileId": "3f0d3928-65d8-44c2-8a55-64cd0c1e4a9a"
+        },
+        {
+          "X": 26,
+          "Y": 4,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 26,
+          "Y": 6,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 26,
+          "Y": 8,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 30,
+          "Y": 8,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 30,
+          "Y": 6,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 30,
+          "Y": 4,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 34,
+          "Y": 4,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 34,
+          "Y": 6,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 34,
+          "Y": 8,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 38,
+          "Y": 8,
+          "TileId": "0722e179-4680-4706-9447-e759c3bf060b"
+        },
+        {
+          "X": 46,
+          "Y": 0,
+          "TileId": "398858ce-dfc6-4efe-95f8-62f142653abd"
+        },
+        {
+          "X": 46,
+          "Y": 2,
+          "TileId": "398858ce-dfc6-4efe-95f8-62f142653abd"
+        },
+        {
+          "X": 46,
+          "Y": 8,
+          "TileId": "398858ce-dfc6-4efe-95f8-62f142653abd"
+        },
+        {
+          "X": 46,
+          "Y": 1,
+          "TileId": "ccf5dd49-e9a1-4948-9730-9f3d72d0109f"
+        },
+        {
+          "X": 46,
+          "Y": 3,
+          "TileId": "ccf5dd49-e9a1-4948-9730-9f3d72d0109f"
+        },
+        {
+          "X": 46,
+          "Y": 9,
+          "TileId": "ccf5dd49-e9a1-4948-9730-9f3d72d0109f"
+        },
+        {
+          "X": 46,
+          "Y": 10,
+          "TileId": "2b6fc910-a664-43bf-a743-fecf02350908"
+        },
+        {
+          "X": 46,
+          "Y": 4,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 46,
+          "Y": 5,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 46,
+          "Y": 6,
+          "TileId": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f"
+        },
+        {
+          "X": 44,
+          "Y": 8,
+          "TileId": "8c916786-0992-403e-b8f8-904fc110c23c"
+        },
+        {
+          "X": 45,
+          "Y": 6,
+          "TileId": "ba012d16-8f2e-42e3-acef-16ba650c17ae"
+        },
+        {
+          "X": 44,
+          "Y": 6,
+          "TileId": "c3dccacf-9ab5-4793-84f2-af4ae4b8fd00"
+        },
+        {
+          "X": 42,
+          "Y": 6,
+          "TileId": "b3d906cd-0af9-49e8-9aee-195576419979"
+        },
+        {
+          "X": 42,
+          "Y": 8,
+          "TileId": "0c0e4c77-9d8e-46c9-a6f1-36d8e6ccf8fe"
         }
       ]
     }
