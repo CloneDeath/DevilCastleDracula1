@@ -1,9 +1,9 @@
 {
   "Name": "Simon",
   "Enabled": true,
-  "WalkSpeed": 3.0,
-  "JumpHeight": 6.0,
-  "Gravity": 10.0,
+  "WalkSpeed": 6.0,
+  "JumpHeight": 2.4,
+  "Gravity": 100.0,
   "Height": 30.0,
   "Width": 14.0,
   "Animations": [

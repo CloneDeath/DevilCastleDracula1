@@ -1,0 +1,25 @@
+{
+  "File": "level-02.png",
+  "Width": 16,
+  "Height": 16,
+  "XSeparation": 0,
+  "YSeparation": 0,
+  "XOffset": 0,
+  "YOffset": 0,
+  "Sprites": [
+    {
+      "Id": "f5934c45-2018-4bd5-a24d-faa509a74516",
+      "X": 3,
+      "Y": 2,
+      "Name": "Abc",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "0a149857-bb59-41e0-aa96-8b7465783a7b",
+      "X": 10,
+      "Y": 0,
+      "Name": "y",
+      "FlipHorizontal": false
+    }
+  ]
+}
