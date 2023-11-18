@@ -1,0 +1,145 @@
+{
+  "File": "simon-belmont-3.png",
+  "TransparentColor": {
+    "Red": 0,
+    "Green": 64,
+    "Blue": 128
+  },
+  "Sprites": [
+    {
+      "Name": "Whip Start",
+      "X": 326,
+      "Y": 24,
+      "Width": 7,
+      "Height": 23,
+      "FlipHorizontal": false,
+      "Id": "d321ec85-f6ee-42a0-9cb4-b87e303556fc"
+    },
+    {
+      "Name": "Whip Middle",
+      "X": 343,
+      "Y": 29,
+      "Width": 14,
+      "Height": 18,
+      "FlipHorizontal": false,
+      "Id": "b025e2fa-5d36-49ab-b977-9408624af95e"
+    },
+    {
+      "Name": "Whip End",
+      "X": 365,
+      "Y": 34,
+      "Width": 24,
+      "Height": 6,
+      "FlipHorizontal": false,
+      "Id": "c81b1e31-9fe0-4acf-9956-159be3d12a83"
+    },
+    {
+      "Name": "Flail Start",
+      "X": 326,
+      "Y": 53,
+      "Width": 8,
+      "Height": 23,
+      "FlipHorizontal": false,
+      "Id": "8424a48f-eb4e-4f74-8512-65ffadc0f3bb"
+    },
+    {
+      "Name": "Flail Middle",
+      "X": 340,
+      "Y": 54,
+      "Width": 14,
+      "Height": 19,
+      "FlipHorizontal": false,
+      "Id": "887c0d8b-0868-4fff-b626-e6319390b8d7"
+    },
+    {
+      "Name": "Flail End",
+      "X": 361,
+      "Y": 58,
+      "Width": 23,
+      "Height": 6,
+      "FlipHorizontal": false,
+      "Id": "257b07f1-0608-4d4a-b9c9-f619c42b6970"
+    },
+    {
+      "Name": "Vampile Killer A Start",
+      "X": 325,
+      "Y": 82,
+      "Width": 8,
+      "Height": 24,
+      "FlipHorizontal": false,
+      "Id": "4e3e11e6-0a95-449c-bb56-4112f2f3103c"
+    },
+    {
+      "Name": "Vampile Killer B Start",
+      "X": 324,
+      "Y": 109,
+      "Width": 8,
+      "Height": 23,
+      "FlipHorizontal": false,
+      "Id": "808e24a6-49ec-4e58-90de-805c632cf3ba"
+    },
+    {
+      "Name": "Vampile Killer C Start",
+      "X": 324,
+      "Y": 139,
+      "Width": 8,
+      "Height": 23,
+      "FlipHorizontal": false,
+      "Id": "8fbc85b7-4f06-4c3f-b881-58e001cc2ac2"
+    },
+    {
+      "Name": "Vampile Killer A Middle",
+      "X": 343,
+      "Y": 85,
+      "Width": 15,
+      "Height": 20,
+      "FlipHorizontal": false,
+      "Id": "94495fd3-a30b-4dcc-a00e-a4d5adf1563e"
+    },
+    {
+      "Name": "Vampile Killer B Middle",
+      "X": 341,
+      "Y": 114,
+      "Width": 14,
+      "Height": 19,
+      "FlipHorizontal": false,
+      "Id": "da9d2f06-14b5-4d45-a97e-6b691adae47c"
+    },
+    {
+      "Name": "Vampile Killer C Middle",
+      "X": 339,
+      "Y": 141,
+      "Width": 14,
+      "Height": 19,
+      "FlipHorizontal": false,
+      "Id": "1de48acf-88dc-48d1-a2f8-05a088f902e8"
+    },
+    {
+      "Name": "Vampile Killer A End",
+      "X": 362,
+      "Y": 90,
+      "Width": 42,
+      "Height": 6,
+      "FlipHorizontal": false,
+      "Id": "78cbb916-428a-461d-852e-34828ec446af"
+    },
+    {
+      "Name": "Vampile Killer B End",
+      "X": 360,
+      "Y": 119,
+      "Width": 42,
+      "Height": 6,
+      "FlipHorizontal": false,
+      "Id": "bf5f59ae-6f11-4050-800c-4d0af8164f28"
+    },
+    {
+      "Name": "Vampile Killer C End",
+      "X": 362,
+      "Y": 146,
+      "Width": 42,
+      "Height": 6,
+      "FlipHorizontal": false,
+      "Id": "6ac803cf-b1f8-426e-9e6a-ceb8746a98bd"
+    }
+  ]
+}

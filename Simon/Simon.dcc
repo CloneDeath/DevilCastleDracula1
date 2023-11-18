@@ -1,5 +1,5 @@
 {
-  "Name": "Simon",
+  "Name": "Simon Belmont",
   "Enabled": true,
   "WalkSpeed": 6.0,
   "JumpHeight": 2.4,
@@ -8,7 +8,8 @@
   "Width": 14.0,
   "Animations": [
     {
-      "Name": "walk",
+      "Id": "7e1e0a59-65e6-4477-9010-d2a1e405f5f5",
+      "Name": "Walk",
       "Frames": [
         {
           "Duration": 0.25,
@@ -33,7 +34,8 @@
       ]
     },
     {
-      "Name": "idle",
+      "Id": "58db290f-6594-48ba-955a-79aed9389a75",
+      "Name": "Idle",
       "Frames": [
         {
           "Duration": 1.0,
@@ -41,9 +43,55 @@
           "Source": "Simon.dcsa"
         }
       ]
+    },
+    {
+      "Id": "1414851b-f220-4230-b1bb-9612a65e59d8",
+      "Name": "Crouch",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "d0ced60f-9ce0-41c0-b7be-add7b14c39ac",
+          "Source": "Simon.dcsa"
+        }
+      ]
+    },
+    {
+      "Id": "d7ba738c-994d-4572-86ac-30fd6aeba111",
+      "Name": "Stairs Up",
+      "Frames": [
+        {
+          "Duration": 0.2,
+          "SpriteId": "79a56458-4b30-425c-aa17-6a8455514b0d",
+          "Source": "Simon.dcsa"
+        },
+        {
+          "Duration": 0.2,
+          "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
+          "Source": "Simon.dcsa"
+        }
+      ]
+    },
+    {
+      "Id": "7a1ac516-5949-4595-9714-dc7df6c7bf67",
+      "Name": "Stairs Down",
+      "Frames": [
+        {
+          "Duration": 0.2,
+          "SpriteId": "76b6c8e5-9f30-4822-be06-ab7bcdf67ecb",
+          "Source": "Simon.dcsa"
+        },
+        {
+          "Duration": 0.2,
+          "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
+          "Source": "Simon.dcsa"
+        }
+      ]
     }
   ],
-  "WalkAnimation": "walk",
-  "IdleAnimation": "idle",
-  "JumpAnimation": "idle"
+  "WalkAnimation": "7e1e0a59-65e6-4477-9010-d2a1e405f5f5",
+  "IdleAnimation": "58db290f-6594-48ba-955a-79aed9389a75",
+  "JumpAnimation": "1414851b-f220-4230-b1bb-9612a65e59d8",
+  "CrouchAnimation": "1414851b-f220-4230-b1bb-9612a65e59d8",
+  "StairsUpAnimation": "d7ba738c-994d-4572-86ac-30fd6aeba111",
+  "StairsDownAnimation": "7a1ac516-5949-4595-9714-dc7df6c7bf67"
 }
