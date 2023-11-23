@@ -1,0 +1,51 @@
+{
+  "Id": "e9f2fd2b-8af8-44e5-af30-2a74f706ff99",
+  "Name": "Whip",
+  "Animations": [
+    {
+      "Id": "ea2219fd-21dd-4eec-9063-fb2210a0076f",
+      "Name": "Start",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "d321ec85-f6ee-42a0-9cb4-b87e303556fc",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 6,
+            "Y": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "2220a074-e47c-4513-8c07-38103018f7ec",
+      "Name": "Middle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "b025e2fa-5d36-49ab-b977-9408624af95e",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 13,
+            "Y": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "238ce573-e665-4a73-9f8e-43d699025a6f",
+      "Name": "End",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "c81b1e31-9fe0-4acf-9956-159be3d12a83",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 0,
+            "Y": 5
+          }
+        }
+      ]
+    }
+  ]
+}

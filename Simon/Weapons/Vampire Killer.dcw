@@ -1,0 +1,105 @@
+{
+  "Id": "5a161153-ee92-4eb9-8bcf-7d563bc41079",
+  "Name": "Vampire Killer",
+  "Animations": [
+    {
+      "Id": "c4adc79c-5547-4811-88ce-8a1da0072093",
+      "Name": "Start",
+      "Frames": [
+        {
+          "Duration": 0.1,
+          "SpriteId": "4e3e11e6-0a95-449c-bb56-4112f2f3103c",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 7,
+            "Y": 1
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "808e24a6-49ec-4e58-90de-805c632cf3ba",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 6,
+            "Y": 0
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "8fbc85b7-4f06-4c3f-b881-58e001cc2ac2",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 6,
+            "Y": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "4a744e00-91ec-41b8-8838-0ce5782869f4",
+      "Name": "Middle",
+      "Frames": [
+        {
+          "Duration": 0.1,
+          "SpriteId": "94495fd3-a30b-4dcc-a00e-a4d5adf1563e",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 14,
+            "Y": 0
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "da9d2f06-14b5-4d45-a97e-6b691adae47c",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 13,
+            "Y": 0
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "1de48acf-88dc-48d1-a2f8-05a088f902e8",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 13,
+            "Y": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "a331447e-0779-4e31-942b-83fe0810afc3",
+      "Name": "End",
+      "Frames": [
+        {
+          "Duration": 0.1,
+          "SpriteId": "78cbb916-428a-461d-852e-34828ec446af",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 0,
+            "Y": 3
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "bf5f59ae-6f11-4050-800c-4d0af8164f28",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 0,
+            "Y": 3
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "6ac803cf-b1f8-426e-9e6a-ceb8746a98bd",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 0,
+            "Y": 3
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Id": "53f025cc-192f-416f-b38f-4fefda4c0fb1",
+  "Name": "Flail",
+  "Animations": [
+    {
+      "Id": "62d228d3-4f2c-4375-a3a0-8927e9ed1a61",
+      "Name": "Start",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "8424a48f-eb4e-4f74-8512-65ffadc0f3bb",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 6,
+            "Y": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "374561f6-ca12-46a1-b0c4-e9be7d47b2e2",
+      "Name": "Middle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "887c0d8b-0868-4fff-b626-e6319390b8d7",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 13,
+            "Y": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "f89e64d6-ed2f-4ce0-9a50-adbeb36dd574",
+      "Name": "End",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "SpriteId": "257b07f1-0608-4d4a-b9c9-f619c42b6970",
+          "Source": "Weapons.dcsa",
+          "Origin": {
+            "X": 1,
+            "Y": 3
+          }
+        }
+      ]
+    }
+  ]
+}

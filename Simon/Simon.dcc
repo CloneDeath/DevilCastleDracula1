@@ -6,6 +6,7 @@
   "Gravity": 100.0,
   "Height": 30.0,
   "Width": 14.0,
+  "DefaultWeapon": "Weapons/Vampire Killer.dcw",
   "Animations": [
     {
       "Id": "7e1e0a59-65e6-4477-9010-d2a1e405f5f5",
@@ -14,22 +15,54 @@
         {
           "Duration": 0.25,
           "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         },
         {
           "Duration": 0.25,
           "SpriteId": "be626687-37e6-4dfe-a054-9ff69fb6caa6",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         },
         {
           "Duration": 0.25,
           "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         },
         {
           "Duration": 0.25,
           "SpriteId": "01842a92-73f2-438f-838d-9d6641eecc10",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         }
       ]
     },
@@ -40,7 +73,15 @@
         {
           "Duration": 1.0,
           "SpriteId": "01842a92-73f2-438f-838d-9d6641eecc10",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         }
       ]
     },
@@ -51,7 +92,15 @@
         {
           "Duration": 1.0,
           "SpriteId": "d0ced60f-9ce0-41c0-b7be-add7b14c39ac",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         }
       ]
     },
@@ -62,12 +111,28 @@
         {
           "Duration": 0.2,
           "SpriteId": "79a56458-4b30-425c-aa17-6a8455514b0d",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         },
         {
           "Duration": 0.2,
           "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         }
       ]
     },
@@ -78,12 +143,73 @@
         {
           "Duration": 0.2,
           "SpriteId": "76b6c8e5-9f30-4822-be06-ab7bcdf67ecb",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
         },
         {
           "Duration": 0.2,
           "SpriteId": "d7461668-89a7-49b6-a40c-80a6df01998b",
-          "Source": "Simon.dcsa"
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": false,
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Animation": ""
+          }
+        }
+      ]
+    },
+    {
+      "Id": "64a6df63-94c3-4f53-949a-f202dd25e719",
+      "Name": "Stand Attack",
+      "Frames": [
+        {
+          "Duration": 0.1,
+          "SpriteId": "b2237bc7-307e-429b-b3ff-e31c129c7fe9",
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": true,
+            "Position": {
+              "X": 0,
+              "Y": 8
+            },
+            "Animation": "Start"
+          }
+        },
+        {
+          "Duration": 0.1,
+          "SpriteId": "31ff5444-662a-4d1d-a34c-19e0fb3d612d",
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": true,
+            "Position": {
+              "X": 1,
+              "Y": 4
+            },
+            "Animation": "Middle"
+          }
+        },
+        {
+          "Duration": 0.3,
+          "SpriteId": "5fc5be32-7060-4d79-86a4-f6d39b66d07a",
+          "Source": "Simon.dcsa",
+          "Weapon": {
+            "Enabled": true,
+            "Position": {
+              "X": 28,
+              "Y": 14
+            },
+            "Animation": "End"
+          }
         }
       ]
     }
@@ -93,5 +219,9 @@
   "JumpAnimation": "1414851b-f220-4230-b1bb-9612a65e59d8",
   "CrouchAnimation": "1414851b-f220-4230-b1bb-9612a65e59d8",
   "StairsUpAnimation": "d7ba738c-994d-4572-86ac-30fd6aeba111",
-  "StairsDownAnimation": "7a1ac516-5949-4595-9714-dc7df6c7bf67"
+  "StairsDownAnimation": "7a1ac516-5949-4595-9714-dc7df6c7bf67",
+  "StandAttackAnimation": "64a6df63-94c3-4f53-949a-f202dd25e719",
+  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000"
 }
