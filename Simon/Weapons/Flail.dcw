@@ -8,12 +8,19 @@
       "Frames": [
         {
           "Duration": 1.0,
-          "SpriteId": "8424a48f-eb4e-4f74-8512-65ffadc0f3bb",
           "Source": "Weapons.dcsa",
+          "SpriteId": "8424a48f-eb4e-4f74-8512-65ffadc0f3bb",
           "Origin": {
-            "X": 6,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     },
@@ -23,12 +30,19 @@
       "Frames": [
         {
           "Duration": 1.0,
-          "SpriteId": "887c0d8b-0868-4fff-b626-e6319390b8d7",
           "Source": "Weapons.dcsa",
+          "SpriteId": "887c0d8b-0868-4fff-b626-e6319390b8d7",
           "Origin": {
-            "X": 13,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     },
@@ -38,12 +52,19 @@
       "Frames": [
         {
           "Duration": 1.0,
-          "SpriteId": "257b07f1-0608-4d4a-b9c9-f619c42b6970",
           "Source": "Weapons.dcsa",
+          "SpriteId": "257b07f1-0608-4d4a-b9c9-f619c42b6970",
           "Origin": {
-            "X": 1,
-            "Y": 3
-          }
+            "Anchor": {
+              "X": -1,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     }

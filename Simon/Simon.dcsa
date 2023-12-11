@@ -62,9 +62,9 @@
     },
     {
       "Name": "Stand Attack 1",
-      "X": 53,
+      "X": 61,
       "Y": 51,
-      "Width": 32,
+      "Width": 24,
       "Height": 32,
       "FlipHorizontal": true,
       "Id": "b2237bc7-307e-429b-b3ff-e31c129c7fe9"
@@ -73,7 +73,7 @@
       "Name": "Stand Attack 2",
       "X": 109,
       "Y": 51,
-      "Width": 17,
+      "Width": 16,
       "Height": 32,
       "FlipHorizontal": true,
       "Id": "31ff5444-662a-4d1d-a34c-19e0fb3d612d"
@@ -82,7 +82,7 @@
       "Name": "Stand Attack 3",
       "X": 153,
       "Y": 51,
-      "Width": 28,
+      "Width": 22,
       "Height": 32,
       "FlipHorizontal": true,
       "Id": "5fc5be32-7060-4d79-86a4-f6d39b66d07a"

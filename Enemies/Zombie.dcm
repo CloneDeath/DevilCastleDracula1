@@ -1,0 +1,37 @@
+{
+  "Id": "0d724425-8fa2-49bc-9f52-7a57a70f5732",
+  "Name": "Zombie",
+  "MoveSpeed": 3.0,
+  "JumpHeight": 1.0,
+  "Gravity": 100.0,
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "InitialState": "00000000-0000-0000-0000-000000000000",
+  "Animations": [
+    {
+      "Id": "29d944e7-016e-4f92-8e15-ef88c6f895d9",
+      "Name": "animation",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "",
+          "SpriteId": "00000000-0000-0000-0000-000000000000",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "States": []
+}

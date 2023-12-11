@@ -1,0 +1,82 @@
+{
+  "Id": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
+  "Name": "Torch",
+  "MoveSpeed": 0.0,
+  "JumpHeight": 0.0,
+  "Gravity": 0.0,
+  "Size": {
+    "Width": 0,
+    "Height": 0
+  },
+  "InitialState": "00000000-0000-0000-0000-000000000000",
+  "Animations": [
+    {
+      "Id": "05337f94-71d0-4b24-8e92-37039e3de1da",
+      "Name": "idle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "../items.dcsa",
+          "SpriteId": "1f380643-f5c9-4491-8802-0c8b54c28cbe",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "../items.dcsa",
+          "SpriteId": "d21c4700-7171-4291-92a6-749f26ca33dc",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "States": [
+    {
+      "Id": "9b2614ad-feb8-41dc-bd27-7216a3bd01a2",
+      "Name": "idle",
+      "Animation": "05337f94-71d0-4b24-8e92-37039e3de1da",
+      "Transitions": [
+        {
+          "Id": "9ecc79b6-70ad-4986-9097-53a864834f33",
+          "Name": "on break",
+          "TargetState": "00000000-0000-0000-0000-000000000000",
+          "When": {
+            "Animation": null,
+            "RandomTimerExpires": null
+          }
+        }
+      ],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    },
+    {
+      "Id": "286e2658-10de-406f-94f5-a56fcd6c2566",
+      "Name": "state",
+      "Animation": "00000000-0000-0000-0000-000000000000",
+      "Transitions": [],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    }
+  ]
+}

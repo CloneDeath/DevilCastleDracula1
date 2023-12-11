@@ -8,30 +8,51 @@
       "Frames": [
         {
           "Duration": 0.1,
+          "Source": "Weapons.dcsa",
           "SpriteId": "4e3e11e6-0a95-449c-bb56-4112f2f3103c",
-          "Source": "Weapons.dcsa",
           "Origin": {
-            "X": 7,
-            "Y": 1
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         },
         {
           "Duration": 0.1,
+          "Source": "Weapons.dcsa",
           "SpriteId": "808e24a6-49ec-4e58-90de-805c632cf3ba",
-          "Source": "Weapons.dcsa",
           "Origin": {
-            "X": 6,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         },
         {
           "Duration": 0.1,
-          "SpriteId": "8fbc85b7-4f06-4c3f-b881-58e001cc2ac2",
           "Source": "Weapons.dcsa",
+          "SpriteId": "8fbc85b7-4f06-4c3f-b881-58e001cc2ac2",
           "Origin": {
-            "X": 6,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     },
@@ -41,30 +62,51 @@
       "Frames": [
         {
           "Duration": 0.1,
+          "Source": "Weapons.dcsa",
           "SpriteId": "94495fd3-a30b-4dcc-a00e-a4d5adf1563e",
-          "Source": "Weapons.dcsa",
           "Origin": {
-            "X": 14,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         },
         {
           "Duration": 0.1,
+          "Source": "Weapons.dcsa",
           "SpriteId": "da9d2f06-14b5-4d45-a97e-6b691adae47c",
-          "Source": "Weapons.dcsa",
           "Origin": {
-            "X": 13,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         },
         {
           "Duration": 0.1,
-          "SpriteId": "1de48acf-88dc-48d1-a2f8-05a088f902e8",
           "Source": "Weapons.dcsa",
+          "SpriteId": "1de48acf-88dc-48d1-a2f8-05a088f902e8",
           "Origin": {
-            "X": 13,
-            "Y": 0
-          }
+            "Anchor": {
+              "X": 1,
+              "Y": -1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     },
@@ -74,30 +116,51 @@
       "Frames": [
         {
           "Duration": 0.1,
+          "Source": "Weapons.dcsa",
           "SpriteId": "78cbb916-428a-461d-852e-34828ec446af",
-          "Source": "Weapons.dcsa",
           "Origin": {
-            "X": 0,
-            "Y": 3
-          }
+            "Anchor": {
+              "X": -1,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         },
         {
           "Duration": 0.1,
+          "Source": "Weapons.dcsa",
           "SpriteId": "bf5f59ae-6f11-4050-800c-4d0af8164f28",
-          "Source": "Weapons.dcsa",
           "Origin": {
-            "X": 0,
-            "Y": 3
-          }
+            "Anchor": {
+              "X": -1,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         },
         {
           "Duration": 0.1,
-          "SpriteId": "6ac803cf-b1f8-426e-9e6a-ceb8746a98bd",
           "Source": "Weapons.dcsa",
+          "SpriteId": "6ac803cf-b1f8-426e-9e6a-ceb8746a98bd",
           "Origin": {
-            "X": 0,
-            "Y": 3
-          }
+            "Anchor": {
+              "X": -1,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     }

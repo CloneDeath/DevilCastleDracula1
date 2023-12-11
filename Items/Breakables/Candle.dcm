@@ -1,0 +1,83 @@
+{
+  "Id": "81293d45-0db9-42ff-978b-e94cbe389373",
+  "Name": "Candle",
+  "MoveSpeed": 0.0,
+  "JumpHeight": 0.0,
+  "Gravity": 0.0,
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "InitialState": "6e59d1ed-ba17-4a40-bc3d-8fa591648ca9",
+  "Animations": [
+    {
+      "Id": "05452a48-5b23-4ddf-b80f-026881dd4b7f",
+      "Name": "idle",
+      "Frames": [
+        {
+          "Duration": 0.3,
+          "Source": "../items.dcsa",
+          "SpriteId": "9910e92d-03aa-492f-a62a-0e038e9f2189",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 0.3,
+          "Source": "../items.dcsa",
+          "SpriteId": "a7d5441a-4390-4a6a-a0f4-feb1fd3c9034",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "States": [
+    {
+      "Id": "6e59d1ed-ba17-4a40-bc3d-8fa591648ca9",
+      "Name": "idle",
+      "Animation": "05452a48-5b23-4ddf-b80f-026881dd4b7f",
+      "Transitions": [
+        {
+          "Id": "bce14758-7a1b-4670-8a5a-b5ea639f6ccb",
+          "Name": "on break",
+          "TargetState": "7715aefa-72cb-4454-b09e-bc02b1e1bd90",
+          "When": {
+            "Self": "Killed",
+            "Animation": null,
+            "RandomTimerExpires": null
+          }
+        }
+      ],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    },
+    {
+      "Id": "7715aefa-72cb-4454-b09e-bc02b1e1bd90",
+      "Name": "broken",
+      "Animation": "05452a48-5b23-4ddf-b80f-026881dd4b7f",
+      "Transitions": [],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    }
+  ]
+}

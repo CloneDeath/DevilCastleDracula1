@@ -1,9 +1,9 @@
 {
   "File": "level-01.png",
   "TransparentColor": {
-    "Red": 0,
+    "Red": 255,
     "Green": 0,
-    "Blue": 0
+    "Blue": 255
   },
   "Sprites": [
     {
