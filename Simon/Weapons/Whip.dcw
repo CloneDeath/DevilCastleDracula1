@@ -20,7 +20,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 9,
+              "Y": 23
+            },
+            "End": {
+              "X": 9,
+              "Y": 23
+            },
+            "Area": 207
+          }
         }
       ]
     },
@@ -42,7 +58,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 14,
+              "Y": 18
+            },
+            "End": {
+              "X": 14,
+              "Y": 18
+            },
+            "Area": 252
+          }
         }
       ]
     },
@@ -64,7 +96,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 24,
+              "Y": 9
+            },
+            "End": {
+              "X": 24,
+              "Y": 9
+            },
+            "Area": 216
+          }
         }
       ]
     }

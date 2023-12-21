@@ -20,7 +20,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 9,
+              "Y": 24
+            },
+            "End": {
+              "X": 9,
+              "Y": 24
+            },
+            "Area": 216
+          }
         },
         {
           "Duration": 0.1,
@@ -36,7 +52,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 8,
+              "Y": 23
+            },
+            "End": {
+              "X": 8,
+              "Y": 23
+            },
+            "Area": 184
+          }
         },
         {
           "Duration": 0.1,
@@ -52,7 +84,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 8,
+              "Y": 23
+            },
+            "End": {
+              "X": 8,
+              "Y": 23
+            },
+            "Area": 184
+          }
         }
       ]
     },
@@ -74,7 +122,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 15,
+              "Y": 20
+            },
+            "End": {
+              "X": 15,
+              "Y": 20
+            },
+            "Area": 300
+          }
         },
         {
           "Duration": 0.1,
@@ -90,7 +154,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 14,
+              "Y": 19
+            },
+            "End": {
+              "X": 14,
+              "Y": 19
+            },
+            "Area": 266
+          }
         },
         {
           "Duration": 0.1,
@@ -106,7 +186,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 14,
+              "Y": 19
+            },
+            "End": {
+              "X": 14,
+              "Y": 19
+            },
+            "Area": 266
+          }
         }
       ]
     },
@@ -128,7 +224,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 42,
+              "Y": 9
+            },
+            "End": {
+              "X": 42,
+              "Y": 9
+            },
+            "Area": 378
+          }
         },
         {
           "Duration": 0.1,
@@ -144,7 +256,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 42,
+              "Y": 9
+            },
+            "End": {
+              "X": 42,
+              "Y": 9
+            },
+            "Area": 378
+          }
         },
         {
           "Duration": 0.1,
@@ -160,7 +288,23 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": null,
+          "HurtBox": {
+            "Position": {
+              "X": 0,
+              "Y": 0
+            },
+            "Size": {
+              "X": 42,
+              "Y": 9
+            },
+            "End": {
+              "X": 42,
+              "Y": 9
+            },
+            "Area": 378
+          }
         }
       ]
     }

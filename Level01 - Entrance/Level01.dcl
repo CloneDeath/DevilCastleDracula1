@@ -6,8 +6,8 @@
   "AreaHeight": 12,
   "StartingPosition": {
     "AreaId": "9a3fa953-b870-4755-a4b7-ca15ab5923a9",
-    "X": 30,
-    "Y": 10
+    "X": 3,
+    "Y": 9
   },
   "Tiles": [
     {
@@ -1110,6 +1110,43 @@
       "Y": 1,
       "Width": 3,
       "Height": 1,
+      "Monsters": [
+        {
+          "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
+          "Position": {
+            "X": 6.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
+          "Position": {
+            "X": 14.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
+          "Position": {
+            "X": 22.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
+          "Position": {
+            "X": 30.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
+          "Position": {
+            "X": 38.0,
+            "Y": 10.0
+          }
+        }
+      ],
       "TileMap": [
         {
           "X": 0,
@@ -2830,6 +2867,7 @@
       "Y": 1,
       "Width": 6,
       "Height": 1,
+      "Monsters": [],
       "TileMap": [
         {
           "X": 0,
@@ -5375,6 +5413,7 @@
       "Y": 2,
       "Width": 2,
       "Height": 1,
+      "Monsters": [],
       "TileMap": [
         {
           "X": 0,
@@ -6675,6 +6714,7 @@
       "Y": 1,
       "Width": 2,
       "Height": 1,
+      "Monsters": [],
       "TileMap": [
         {
           "X": 0,
@@ -8225,6 +8265,7 @@
       "Y": 1,
       "Width": 3,
       "Height": 1,
+      "Monsters": [],
       "TileMap": [
         {
           "X": 0,
