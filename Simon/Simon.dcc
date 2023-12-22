@@ -363,7 +363,7 @@
       "Name": "Stand Attack",
       "Frames": [
         {
-          "Duration": 1.0,
+          "Duration": 0.1,
           "Source": "Simon.dcsa",
           "SpriteId": "b2237bc7-307e-429b-b3ff-e31c129c7fe9",
           "Origin": {
@@ -404,7 +404,7 @@
           "HurtBox": null
         },
         {
-          "Duration": 1.0,
+          "Duration": 0.1,
           "Source": "Simon.dcsa",
           "SpriteId": "31ff5444-662a-4d1d-a34c-19e0fb3d612d",
           "Origin": {
@@ -445,7 +445,7 @@
           "HurtBox": null
         },
         {
-          "Duration": 1.0,
+          "Duration": 0.3,
           "Source": "Simon.dcsa",
           "SpriteId": "5fc5be32-7060-4d79-86a4-f6d39b66d07a",
           "Origin": {
@@ -463,7 +463,7 @@
               "Name": "Weapon",
               "Position": {
                 "X": 21,
-                "Y": 6
+                "Y": 15
               },
               "Animation": "End"
             }
