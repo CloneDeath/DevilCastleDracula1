@@ -2867,7 +2867,176 @@
       "Y": 1,
       "Width": 6,
       "Height": 1,
-      "Monsters": [],
+      "Monsters": [
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 2.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 6.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 10.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 14.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 18.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 22.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 26.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 30.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 34.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 38.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 42.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 46.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 50.0,
+            "Y": 2.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 54.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 58.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 62.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 66.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 70.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 74.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 78.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 82.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 86.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 90.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 94.0,
+            "Y": 2.0
+          }
+        }
+      ],
       "TileMap": [
         {
           "X": 0,
