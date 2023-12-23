@@ -5582,7 +5582,64 @@
       "Y": 2,
       "Width": 2,
       "Height": 1,
-      "Monsters": [],
+      "Monsters": [
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 2.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 6.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 10.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 14.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 18.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 22.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 26.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 31.0,
+            "Y": 3.0
+          }
+        }
+      ],
       "TileMap": [
         {
           "X": 0,
@@ -6883,7 +6940,64 @@
       "Y": 1,
       "Width": 2,
       "Height": 1,
-      "Monsters": [],
+      "Monsters": [
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 2.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 6.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 10.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 14.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 19.0,
+            "Y": 3.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 22.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 26.0,
+            "Y": 2.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 30.0,
+            "Y": 4.0
+          }
+        }
+      ],
       "TileMap": [
         {
           "X": 0,
@@ -8434,7 +8548,92 @@
       "Y": 1,
       "Width": 3,
       "Height": 1,
-      "Monsters": [],
+      "Monsters": [
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 2.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 6.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 10.0,
+            "Y": 6.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 14.0,
+            "Y": 4.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 18.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 22.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 26.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 30.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 34.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 38.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 42.0,
+            "Y": 8.0
+          }
+        },
+        {
+          "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
+          "Position": {
+            "X": 46.0,
+            "Y": 8.0
+          }
+        }
+      ],
       "TileMap": [
         {
           "X": 0,
