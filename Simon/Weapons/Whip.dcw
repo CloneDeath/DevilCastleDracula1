@@ -21,6 +21,7 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
             "Position": {
@@ -59,6 +60,7 @@
             }
           },
           "Slots": [],
+          "Audio": "Attack.wav",
           "HitBox": null,
           "HurtBox": {
             "Position": {
@@ -97,6 +99,7 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
             "Position": {
