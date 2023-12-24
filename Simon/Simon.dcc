@@ -6,7 +6,7 @@
   "Gravity": 100.0,
   "Height": 30.0,
   "Width": 14.0,
-  "DefaultWeapon": "Weapons/Vampire Killer.dcw",
+  "DefaultWeapon": "Weapons/Whip.dcw",
   "Animations": [
     {
       "Id": "7e1e0a59-65e6-4477-9010-d2a1e405f5f5",
