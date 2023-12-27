@@ -1,9 +1,12 @@
 {
   "Name": "Main Menu",
   "Id": "76780255-b30f-418f-8069-0caccc5c0eef",
+  "Size": {
+    "Width": 256,
+    "Height": 240
+  },
   "Elements": [
     {
-      "$type": "DemonCastle.ProjectFiles.Files.ColorRectElementData, DemonCastle.ProjectFiles",
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -20,24 +23,6 @@
       }
     },
     {
-      "$type": "DemonCastle.ProjectFiles.Files.ColorRectElementData, DemonCastle.ProjectFiles",
-      "Color": {
-        "Red": 255,
-        "Green": 255,
-        "Blue": 255
-      },
-      "Name": "Color Rectangle",
-      "Id": "51f150f9-6a08-45cd-854d-9fe0cf5bd8d1",
-      "Type": "ColorRect",
-      "Region": {
-        "X": 0,
-        "Y": 0,
-        "Width": 0,
-        "Height": 0
-      }
-    },
-    {
-      "$type": "DemonCastle.ProjectFiles.Files.LabelElementData, DemonCastle.ProjectFiles",
       "Text": "",
       "Color": {
         "Red": 255,
@@ -55,7 +40,6 @@
       }
     },
     {
-      "$type": "DemonCastle.ProjectFiles.Files.ColorRectElementData, DemonCastle.ProjectFiles",
       "Color": {
         "Red": 255,
         "Green": 255,
