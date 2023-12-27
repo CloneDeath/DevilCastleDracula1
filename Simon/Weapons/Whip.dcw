@@ -24,19 +24,10 @@
           "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 9,
-              "Y": 23
-            },
-            "End": {
-              "X": 9,
-              "Y": 23
-            },
-            "Area": 207
+            "X": 0,
+            "Y": 0,
+            "Width": 9,
+            "Height": 23
           }
         }
       ]
@@ -63,19 +54,10 @@
           "Audio": "Attack.wav",
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 14,
-              "Y": 18
-            },
-            "End": {
-              "X": 14,
-              "Y": 18
-            },
-            "Area": 252
+            "X": 0,
+            "Y": 0,
+            "Width": 14,
+            "Height": 18
           }
         }
       ]
@@ -102,19 +84,10 @@
           "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 24,
-              "Y": 9
-            },
-            "End": {
-              "X": 24,
-              "Y": 9
-            },
-            "Area": 216
+            "X": 0,
+            "Y": 0,
+            "Width": 24,
+            "Height": 9
           }
         }
       ]

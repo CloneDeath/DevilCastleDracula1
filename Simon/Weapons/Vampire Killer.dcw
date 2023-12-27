@@ -21,21 +21,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 9,
-              "Y": 24
-            },
-            "End": {
-              "X": 9,
-              "Y": 24
-            },
-            "Area": 216
+            "X": 0,
+            "Y": 0,
+            "Width": 9,
+            "Height": 24
           }
         },
         {
@@ -53,21 +45,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 8,
-              "Y": 23
-            },
-            "End": {
-              "X": 8,
-              "Y": 23
-            },
-            "Area": 184
+            "X": 0,
+            "Y": 0,
+            "Width": 9,
+            "Height": 23
           }
         },
         {
@@ -85,21 +69,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 8,
-              "Y": 23
-            },
-            "End": {
-              "X": 8,
-              "Y": 23
-            },
-            "Area": 184
+            "X": 0,
+            "Y": 0,
+            "Width": 9,
+            "Height": 23
           }
         }
       ]
@@ -123,21 +99,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 15,
-              "Y": 20
-            },
-            "End": {
-              "X": 15,
-              "Y": 20
-            },
-            "Area": 300
+            "X": 0,
+            "Y": 0,
+            "Width": 15,
+            "Height": 20
           }
         },
         {
@@ -155,21 +123,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 14,
-              "Y": 19
-            },
-            "End": {
-              "X": 14,
-              "Y": 19
-            },
-            "Area": 266
+            "X": 0,
+            "Y": 0,
+            "Width": 14,
+            "Height": 19
           }
         },
         {
@@ -187,21 +147,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 14,
-              "Y": 19
-            },
-            "End": {
-              "X": 14,
-              "Y": 19
-            },
-            "Area": 266
+            "X": 0,
+            "Y": 0,
+            "Width": 14,
+            "Height": 19
           }
         }
       ]
@@ -225,21 +177,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 42,
-              "Y": 9
-            },
-            "End": {
-              "X": 42,
-              "Y": 9
-            },
-            "Area": 378
+            "X": 0,
+            "Y": 0,
+            "Width": 42,
+            "Height": 9
           }
         },
         {
@@ -257,21 +201,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 42,
-              "Y": 9
-            },
-            "End": {
-              "X": 42,
-              "Y": 9
-            },
-            "Area": 378
+            "X": 0,
+            "Y": 0,
+            "Width": 42,
+            "Height": 9
           }
         },
         {
@@ -289,21 +225,13 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": null,
           "HurtBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 42,
-              "Y": 9
-            },
-            "End": {
-              "X": 42,
-              "Y": 9
-            },
-            "Area": 378
+            "X": 0,
+            "Y": 0,
+            "Width": 42,
+            "Height": 9
           }
         }
       ]

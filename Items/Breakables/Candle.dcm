@@ -34,20 +34,12 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 9,
-              "Y": 16
-            },
-            "End": {
-              "X": 9,
-              "Y": 16
-            },
-            "Area": 144
+            "X": 0,
+            "Y": 0,
+            "Width": 8,
+            "Height": 16
           },
           "HurtBox": null
         },
@@ -66,20 +58,12 @@
             }
           },
           "Slots": [],
+          "Audio": null,
           "HitBox": {
-            "Position": {
-              "X": 0,
-              "Y": 0
-            },
-            "Size": {
-              "X": 9,
-              "Y": 16
-            },
-            "End": {
-              "X": 9,
-              "Y": 16
-            },
-            "Area": 144
+            "X": 0,
+            "Y": 0,
+            "Width": 8,
+            "Height": 16
           },
           "HurtBox": null
         }
