@@ -1,5 +1,75 @@
 {
-  "Name": "scene",
+  "Name": "Main Menu",
   "Id": "76780255-b30f-418f-8069-0caccc5c0eef",
-  "Elements": []
+  "Elements": [
+    {
+      "$type": "DemonCastle.ProjectFiles.Files.ColorRectElementData, DemonCastle.ProjectFiles",
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "Name": "Color Rectangle",
+      "Id": "8d5bab69-cb58-4b6d-9d65-17c424f9b1de",
+      "Type": "ColorRect",
+      "Region": {
+        "X": 0,
+        "Y": 0,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "$type": "DemonCastle.ProjectFiles.Files.ColorRectElementData, DemonCastle.ProjectFiles",
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "Name": "Color Rectangle",
+      "Id": "51f150f9-6a08-45cd-854d-9fe0cf5bd8d1",
+      "Type": "ColorRect",
+      "Region": {
+        "X": 0,
+        "Y": 0,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "$type": "DemonCastle.ProjectFiles.Files.LabelElementData, DemonCastle.ProjectFiles",
+      "Text": "",
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "Name": "Label",
+      "Id": "4fe3c707-6ff6-40b1-8ee5-7aa655f1804c",
+      "Type": "Label",
+      "Region": {
+        "X": 0,
+        "Y": 0,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "$type": "DemonCastle.ProjectFiles.Files.ColorRectElementData, DemonCastle.ProjectFiles",
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "Name": "Color Rectangle",
+      "Id": "87f6c055-a67c-4e35-93f7-f5d3cb255ad9",
+      "Type": "ColorRect",
+      "Region": {
+        "X": 0,
+        "Y": 0,
+        "Width": 0,
+        "Height": 0
+      }
+    }
+  ]
 }
