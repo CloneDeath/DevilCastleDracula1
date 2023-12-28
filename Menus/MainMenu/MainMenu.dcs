@@ -1,0 +1,55 @@
+{
+  "Name": "Main Menu",
+  "Id": "76780255-b30f-418f-8069-0caccc5c0eef",
+  "Size": {
+    "Width": 256,
+    "Height": 240
+  },
+  "BackgroundColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0,
+    "Alpha": 255
+  },
+  "Elements": [
+    {
+      "SpriteFile": "MainManu.dcsa",
+      "SpriteId": "4df7c2a4-641c-4b82-819e-7a3d88c5065a",
+      "Name": "Background",
+      "Id": "5de8b43d-1d27-4932-83c9-3d8d181e85bc",
+      "Type": "Sprite",
+      "Region": {
+        "X": 0,
+        "Y": 0,
+        "Width": 256,
+        "Height": 240
+      }
+    },
+    {
+      "SpriteFile": "MainManu.dcsa",
+      "SpriteId": "9230cbaa-3f2c-46f2-b4a8-9112d40c35b0",
+      "Name": "Castle",
+      "Id": "179affd3-5385-4117-81ac-cd584190a97b",
+      "Type": "Sprite",
+      "Region": {
+        "X": 184,
+        "Y": 104,
+        "Width": 72,
+        "Height": 56
+      }
+    },
+    {
+      "SpriteFile": "MainManu.dcsa",
+      "SpriteId": "d5b070a8-019b-4129-b0bc-2b92e40d5ec3",
+      "Name": "Press Start",
+      "Id": "228679d1-bb1a-4247-b8ee-b5f903522588",
+      "Type": "Sprite",
+      "Region": {
+        "X": 72,
+        "Y": 136,
+        "Width": 0,
+        "Height": 0
+      }
+    }
+  ]
+}

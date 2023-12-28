@@ -1,0 +1,46 @@
+{
+  "File": "MainMenu.png",
+  "TransparentColor": {
+    "Red": 255,
+    "Green": 0,
+    "Blue": 255
+  },
+  "Sprites": [
+    {
+      "Name": "Menu Screen",
+      "X": 1,
+      "Y": 1,
+      "Width": 256,
+      "Height": 240,
+      "FlipHorizontal": false,
+      "Id": "4df7c2a4-641c-4b82-819e-7a3d88c5065a"
+    },
+    {
+      "Name": "Castle",
+      "X": 1,
+      "Y": 256,
+      "Width": 72,
+      "Height": 56,
+      "FlipHorizontal": false,
+      "Id": "9230cbaa-3f2c-46f2-b4a8-9112d40c35b0"
+    },
+    {
+      "Name": "Press Start On",
+      "X": 558,
+      "Y": 1,
+      "Width": 112,
+      "Height": 8,
+      "FlipHorizontal": false,
+      "Id": "d5b070a8-019b-4129-b0bc-2b92e40d5ec3"
+    },
+    {
+      "Name": "Press Start Off",
+      "X": 558,
+      "Y": 10,
+      "Width": 112,
+      "Height": 8,
+      "FlipHorizontal": false,
+      "Id": "7fda1076-4c89-4872-9a70-973d64736026"
+    }
+  ]
+}

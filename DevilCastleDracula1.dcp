@@ -1,1 +1,5 @@
-{"Name":"DevilCastleDracula1","Version":"0.0","Levels":[]}
+{
+  "Name": "Devil Castle Dracula 1",
+  "Version": "0.0",
+  "StartScene": "Menus/MainMenu/MainMenu.dcs"
+}
