@@ -5,31 +5,24 @@
     "Width": 256,
     "Height": 240
   },
+  "BackgroundColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0,
+    "Alpha": 255
+  },
   "Elements": [
     {
+      "Text": "Hello World",
+      "FontFile": "../Font/DevilCastle1.ttf",
+      "FontSize": 16,
       "Color": {
         "Red": 255,
         "Green": 255,
         "Blue": 255
       },
-      "Name": "Color Rectangle",
-      "Id": "8d5bab69-cb58-4b6d-9d65-17c424f9b1de",
-      "Type": "ColorRect",
-      "Region": {
-        "X": 0,
-        "Y": 0,
-        "Width": 0,
-        "Height": 0
-      }
-    },
-    {
-      "Text": "",
-      "Color": {
-        "Red": 255,
-        "Green": 255,
-        "Blue": 255
-      },
-      "Name": "Label",
+      "TextTransform": "Uppercase",
+      "Name": "Title",
       "Id": "4fe3c707-6ff6-40b1-8ee5-7aa655f1804c",
       "Type": "Label",
       "Region": {
@@ -42,8 +35,8 @@
     {
       "Color": {
         "Red": 255,
-        "Green": 255,
-        "Blue": 255
+        "Green": 0,
+        "Blue": 0
       },
       "Name": "Color Rectangle",
       "Id": "87f6c055-a67c-4e35-93f7-f5d3cb255ad9",
@@ -51,8 +44,8 @@
       "Region": {
         "X": 0,
         "Y": 0,
-        "Width": 0,
-        "Height": 0
+        "Width": 8,
+        "Height": 16
       }
     }
   ]
