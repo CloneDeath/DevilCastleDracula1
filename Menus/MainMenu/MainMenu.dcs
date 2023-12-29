@@ -51,5 +51,26 @@
         "Height": 0
       }
     }
+  ],
+  "Events": [
+    {
+      "Name": "Start Pressed",
+      "When": {
+        "Input": {
+          "State": "Pressed",
+          "Action": "Up"
+        }
+      },
+      "Then": {
+        "Scene": {
+          "Set": "MainMenu.dcs"
+        }
+      }
+    },
+    {
+      "Name": "Event",
+      "When": {},
+      "Then": {}
+    }
   ]
 }

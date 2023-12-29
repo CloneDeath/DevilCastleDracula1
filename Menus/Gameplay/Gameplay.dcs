@@ -1,0 +1,137 @@
+{
+  "Name": "Gameplay",
+  "Id": "a8e5df1f-5c0b-4a17-b327-676f87dd8093",
+  "Size": {
+    "Width": 256,
+    "Height": 240
+  },
+  "BackgroundColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0,
+    "Alpha": 255
+  },
+  "Elements": [
+    {
+      "Text": "Score-",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "Uppercase",
+      "Name": "Score",
+      "Id": "5c0f6406-4ddf-404a-ad22-b8fd92def194",
+      "Type": "Label",
+      "Region": {
+        "X": 1,
+        "Y": -3,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "Text": "000000",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Name": "Score Value",
+      "Id": "5d3bf71f-e029-4d80-aa8c-855ec58d12b2",
+      "Type": "Label",
+      "Region": {
+        "X": 49,
+        "Y": -3,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "Text": "Time",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "Uppercase",
+      "Name": "Time",
+      "Id": "5c83068f-87c1-4508-b71d-0826ddac2253",
+      "Type": "Label",
+      "Region": {
+        "X": 105,
+        "Y": -3,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "Text": "0000",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Name": "Time Value",
+      "Id": "88cdc8d6-f334-4817-8941-a1262c16be80",
+      "Type": "Label",
+      "Region": {
+        "X": 145,
+        "Y": -3,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "Text": "Stage",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "Uppercase",
+      "Name": "Stage",
+      "Id": "5dea85a9-c607-405a-b029-49ec6ce9e808",
+      "Type": "Label",
+      "Region": {
+        "X": 185,
+        "Y": -3,
+        "Width": 0,
+        "Height": 0
+      }
+    },
+    {
+      "Text": "00",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Name": "Stage Value",
+      "Id": "7f93d221-f50e-4915-a695-65d079daa9cf",
+      "Type": "Label",
+      "Region": {
+        "X": 233,
+        "Y": -3,
+        "Width": 0,
+        "Height": 0
+      }
+    }
+  ],
+  "Events": []
+}
