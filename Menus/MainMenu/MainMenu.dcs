@@ -56,21 +56,29 @@
     {
       "Name": "Start Pressed",
       "When": {
-        "Input": {
-          "State": "Pressed",
-          "Action": "Up"
-        }
+        "AnyInput": "Pressed"
       },
-      "Then": {
-        "Scene": {
-          "Set": "MainMenu.dcs"
+      "Then": [
+        {
+          "Scene": {
+            "Set": "MainMenu.dcs"
+          }
         }
-      }
+      ]
     },
     {
-      "Name": "Event",
-      "When": {},
-      "Then": {}
+      "Name": "Initialization",
+      "When": {
+        "ThisScene": "Enter"
+      },
+      "Then": [
+        {
+          "SetCharacter": "../../Simon/Simon.dcc"
+        },
+        {
+          "SetLevel": "../../Level01 - Entrance/Level01.dcl"
+        }
+      ]
     }
   ]
 }

@@ -131,6 +131,17 @@
         "Width": 0,
         "Height": 0
       }
+    },
+    {
+      "Name": "Level View",
+      "Id": "88559df8-4b4f-4c22-8911-81664a8f17a6",
+      "Type": "LevelView",
+      "Region": {
+        "X": 0,
+        "Y": 32,
+        "Width": 256,
+        "Height": 208
+      }
     }
   ],
   "Events": []
