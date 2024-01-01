@@ -1,0 +1,19 @@
+{
+  "File": "Heart.png",
+  "TransparentColor": {
+    "Red": 255,
+    "Green": 0,
+    "Blue": 255
+  },
+  "Sprites": [
+    {
+      "Name": "Heart",
+      "X": 0,
+      "Y": 0,
+      "Width": 8,
+      "Height": 8,
+      "FlipHorizontal": false,
+      "Id": "381403ef-1872-4da5-b6ad-21cd248509c4"
+    }
+  ]
+}
