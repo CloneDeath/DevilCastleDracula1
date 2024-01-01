@@ -162,6 +162,19 @@
         "Width": 0,
         "Height": 0
       }
+    },
+    {
+      "SpriteFile": "Health.dcsg",
+      "SpriteId": "d8a62e94-2578-4280-bf81-bcb610568ec2",
+      "Name": "Player Health",
+      "Id": "1bd4a8f9-08b5-497c-9085-4c247e51265e",
+      "Type": "HealthBar",
+      "Region": {
+        "X": 56,
+        "Y": 18,
+        "Width": 64,
+        "Height": 6
+      }
     }
   ],
   "Events": []

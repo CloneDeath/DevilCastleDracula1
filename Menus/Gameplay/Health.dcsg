@@ -1,0 +1,32 @@
+{
+  "File": "Health.png",
+  "Width": 4,
+  "Height": 6,
+  "XSeparation": 0,
+  "YSeparation": 0,
+  "XOffset": 0,
+  "YOffset": 0,
+  "Sprites": [
+    {
+      "Id": "a074e5cb-5a89-4227-b9e6-546ffcd5014d",
+      "X": 0,
+      "Y": 0,
+      "Name": "Empty",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "3c15775d-aa5f-45ad-aa90-e74e4e3d7165",
+      "X": 1,
+      "Y": 0,
+      "Name": "Enemy",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "d8a62e94-2578-4280-bf81-bcb610568ec2",
+      "X": 2,
+      "Y": 0,
+      "Name": "Player",
+      "FlipHorizontal": false
+    }
+  ]
+}
