@@ -142,6 +142,26 @@
         "Width": 256,
         "Height": 192
       }
+    },
+    {
+      "Text": "Player",
+      "FontFile": "../../Font/DevilCastle1.ttf",
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "Uppercase",
+      "Name": "Player",
+      "Id": "7a54f6bc-f2a0-4dec-868d-52671f92dd83",
+      "Type": "Label",
+      "Region": {
+        "X": 1,
+        "Y": 13,
+        "Width": 0,
+        "Height": 0
+      }
     }
   ],
   "Events": []
