@@ -27,7 +27,7 @@
       "Type": "Label",
       "Region": {
         "X": 1,
-        "Y": -3,
+        "Y": 5,
         "Width": 0,
         "Height": 0
       }
@@ -47,7 +47,7 @@
       "Type": "Label",
       "Region": {
         "X": 49,
-        "Y": -3,
+        "Y": 5,
         "Width": 0,
         "Height": 0
       }
@@ -67,7 +67,7 @@
       "Type": "Label",
       "Region": {
         "X": 105,
-        "Y": -3,
+        "Y": 5,
         "Width": 0,
         "Height": 0
       }
@@ -87,7 +87,7 @@
       "Type": "Label",
       "Region": {
         "X": 145,
-        "Y": -3,
+        "Y": 5,
         "Width": 0,
         "Height": 0
       }
@@ -107,7 +107,7 @@
       "Type": "Label",
       "Region": {
         "X": 185,
-        "Y": -3,
+        "Y": 5,
         "Width": 0,
         "Height": 0
       }
@@ -127,7 +127,7 @@
       "Type": "Label",
       "Region": {
         "X": 233,
-        "Y": -3,
+        "Y": 5,
         "Width": 0,
         "Height": 0
       }
@@ -138,9 +138,9 @@
       "Type": "LevelView",
       "Region": {
         "X": 0,
-        "Y": 32,
+        "Y": 40,
         "Width": 256,
-        "Height": 208
+        "Height": 192
       }
     }
   ],

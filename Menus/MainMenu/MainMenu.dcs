@@ -61,7 +61,7 @@
       "Then": [
         {
           "Scene": {
-            "Set": "MainMenu.dcs"
+            "Set": "../Gameplay/Gameplay.dcs"
           }
         }
       ]
