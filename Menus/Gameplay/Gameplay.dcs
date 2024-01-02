@@ -33,7 +33,7 @@
       }
     },
     {
-      "Text": "000000",
+      "Text": "{Player.Score:000000}",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
       "Color": {
@@ -315,7 +315,7 @@
       }
     },
     {
-      "Text": "00",
+      "Text": "{Player.Lives:00}",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
       "Color": {
