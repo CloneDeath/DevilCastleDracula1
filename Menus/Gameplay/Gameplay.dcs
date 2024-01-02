@@ -15,7 +15,7 @@
     {
       "Text": "Score-",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -27,7 +27,7 @@
       "Type": "Label",
       "Region": {
         "X": 1,
-        "Y": 5,
+        "Y": 9,
         "Width": 0,
         "Height": 0
       }
@@ -35,7 +35,7 @@
     {
       "Text": "000000",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -47,7 +47,7 @@
       "Type": "Label",
       "Region": {
         "X": 49,
-        "Y": 5,
+        "Y": 9,
         "Width": 0,
         "Height": 0
       }
@@ -55,7 +55,7 @@
     {
       "Text": "Time",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -67,7 +67,7 @@
       "Type": "Label",
       "Region": {
         "X": 105,
-        "Y": 5,
+        "Y": 9,
         "Width": 0,
         "Height": 0
       }
@@ -75,7 +75,7 @@
     {
       "Text": "0000",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -87,7 +87,7 @@
       "Type": "Label",
       "Region": {
         "X": 145,
-        "Y": 5,
+        "Y": 9,
         "Width": 0,
         "Height": 0
       }
@@ -95,7 +95,7 @@
     {
       "Text": "Stage",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -107,7 +107,7 @@
       "Type": "Label",
       "Region": {
         "X": 185,
-        "Y": 5,
+        "Y": 9,
         "Width": 0,
         "Height": 0
       }
@@ -115,7 +115,7 @@
     {
       "Text": "00",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -127,7 +127,7 @@
       "Type": "Label",
       "Region": {
         "X": 233,
-        "Y": 5,
+        "Y": 9,
         "Width": 0,
         "Height": 0
       }
@@ -146,7 +146,7 @@
     {
       "Text": "Player",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -158,7 +158,7 @@
       "Type": "Label",
       "Region": {
         "X": 1,
-        "Y": 13,
+        "Y": 17,
         "Width": 0,
         "Height": 0
       }
@@ -179,7 +179,7 @@
     {
       "Text": "Enemy",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -191,7 +191,7 @@
       "Type": "Label",
       "Region": {
         "X": 1,
-        "Y": 21,
+        "Y": 25,
         "Width": 0,
         "Height": 0
       }
@@ -211,22 +211,6 @@
     },
     {
       "Color": {
-        "Red": 222,
-        "Green": 40,
-        "Blue": 0
-      },
-      "Name": "Item BG",
-      "Id": "10ec0575-f5d1-4cca-88a5-7a17a40160ea",
-      "Type": "ColorRect",
-      "Region": {
-        "X": 128,
-        "Y": 17,
-        "Width": 32,
-        "Height": 22
-      }
-    },
-    {
-      "Color": {
         "Red": 0,
         "Green": 0,
         "Blue": 0
@@ -239,6 +223,22 @@
         "Y": 19,
         "Width": 28,
         "Height": 18
+      }
+    },
+    {
+      "Color": {
+        "Red": 222,
+        "Green": 40,
+        "Blue": 0
+      },
+      "Name": "Item BG",
+      "Id": "10ec0575-f5d1-4cca-88a5-7a17a40160ea",
+      "Type": "ColorRect",
+      "Region": {
+        "X": 128,
+        "Y": 17,
+        "Width": 32,
+        "Height": 22
       }
     },
     {
@@ -257,7 +257,7 @@
     {
       "Text": "-",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -269,15 +269,15 @@
       "Type": "Label",
       "Region": {
         "X": 177,
-        "Y": 13,
+        "Y": 17,
         "Width": 0,
         "Height": 0
       }
     },
     {
-      "Text": "00",
+      "Text": "{Player.MP:00}",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -289,7 +289,7 @@
       "Type": "Label",
       "Region": {
         "X": 185,
-        "Y": 13,
+        "Y": 17,
         "Width": 0,
         "Height": 0
       }
@@ -297,7 +297,7 @@
     {
       "Text": "P-",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -309,7 +309,7 @@
       "Type": "Label",
       "Region": {
         "X": 169,
-        "Y": 21,
+        "Y": 25,
         "Width": 0,
         "Height": 0
       }
@@ -317,7 +317,7 @@
     {
       "Text": "00",
       "FontFile": "../../Font/DevilCastle1.ttf",
-      "FontSize": 16,
+      "FontSize": 8,
       "Color": {
         "Red": 255,
         "Green": 255,
@@ -329,7 +329,7 @@
       "Type": "Label",
       "Region": {
         "X": 185,
-        "Y": 21,
+        "Y": 25,
         "Width": 0,
         "Height": 0
       }
