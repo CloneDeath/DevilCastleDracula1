@@ -1,0 +1,42 @@
+{
+  "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
+  "OnPickup": [],
+  "Id": "f485172f-cfb5-4240-945f-7bcb6be8bbcb",
+  "Name": "Heart",
+  "InitialState": "00000000-0000-0000-0000-000000000000",
+  "Animations": [
+    {
+      "Id": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
+      "Name": "idle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "../items.dcsa",
+          "SpriteId": "b64d4a81-16d9-496c-b8ec-db57b573c401",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "States": [
+    {
+      "Id": "14c62fc2-1992-4376-abda-726a43159fbc",
+      "Name": "Falling",
+      "Animation": "00000000-0000-0000-0000-000000000000",
+      "Transitions": [],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    }
+  ]
+}

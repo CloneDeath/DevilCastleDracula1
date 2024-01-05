@@ -27,14 +27,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.25,
@@ -51,14 +49,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.25,
@@ -75,14 +71,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.25,
@@ -99,14 +93,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         }
       ]
     },
@@ -129,14 +121,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         }
       ]
     },
@@ -159,14 +149,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 12,
             "Width": 12,
             "Height": 20
-          },
-          "HurtBox": null
+          }
         }
       ]
     },
@@ -189,14 +177,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.2,
@@ -213,14 +199,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         }
       ]
     },
@@ -243,14 +227,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.2,
@@ -267,14 +249,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         }
       ]
     },
@@ -306,14 +286,12 @@
               "Animation": "Start"
             }
           ],
-          "Audio": null,
           "HitBox": {
             "X": 9,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.1,
@@ -339,14 +317,12 @@
               "Animation": "Middle"
             }
           ],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.3,
@@ -372,14 +348,12 @@
               "Animation": "End"
             }
           ],
-          "Audio": null,
           "HitBox": {
             "X": 2,
             "Y": 2,
             "Width": 12,
             "Height": 30
-          },
-          "HurtBox": null
+          }
         }
       ]
     }

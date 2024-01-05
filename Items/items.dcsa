@@ -41,6 +41,24 @@
       "Height": 32,
       "FlipHorizontal": false,
       "Id": "d21c4700-7171-4291-92a6-749f26ca33dc"
+    },
+    {
+      "Name": "Small Heart",
+      "X": 18,
+      "Y": 1,
+      "Width": 8,
+      "Height": 8,
+      "FlipHorizontal": false,
+      "Id": "b64d4a81-16d9-496c-b8ec-db57b573c401"
+    },
+    {
+      "Name": "Large Heart",
+      "X": 27,
+      "Y": 1,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "c0ae2096-936c-4aaf-bc94-446245e1371d"
     }
   ]
 }

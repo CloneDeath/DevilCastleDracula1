@@ -1,0 +1,163 @@
+{
+  "File": "Enemies.png",
+  "TransparentColor": {
+    "Red": 116,
+    "Green": 116,
+    "Blue": 116
+  },
+  "Sprites": [
+    {
+      "Name": "Zombie 1",
+      "X": 1,
+      "Y": 28,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": true,
+      "Id": "9227a1ec-0c67-444c-9e58-60c43590ba7d"
+    },
+    {
+      "Name": "Zombie 2",
+      "X": 18,
+      "Y": 29,
+      "Width": 16,
+      "Height": 31,
+      "FlipHorizontal": true,
+      "Id": "a5222f32-a69d-4faa-856c-a6850f2afab7"
+    },
+    {
+      "Name": "Black Leopard Sit",
+      "X": 56,
+      "Y": 11,
+      "Width": 24,
+      "Height": 16,
+      "FlipHorizontal": true,
+      "Id": "6435945c-ddbb-46bb-990a-e772dd1454b5"
+    },
+    {
+      "Name": "Black Leopard Run 1",
+      "X": 81,
+      "Y": 11,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": true,
+      "Id": "dcf8227b-ffb7-4554-8790-0f920b6e4571"
+    },
+    {
+      "Name": "Black Leopard Run 2",
+      "X": 114,
+      "Y": 11,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "61ce34de-40fe-4bea-9f41-8f9b547073f0"
+    },
+    {
+      "Name": "Black Leopard Run 3",
+      "X": 147,
+      "Y": 11,
+      "Width": 32,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "eb6279b2-84e3-4788-86b0-87369c8875f3"
+    },
+    {
+      "Name": "Red Vampire Bat 1",
+      "X": 184,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "1f4a486c-6d8c-498c-a1cf-0e8e30cedc7f"
+    },
+    {
+      "Name": "Red Vampire Bat 2",
+      "X": 201,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "b887dbe2-e1a1-4fff-8341-789d3269cc76"
+    },
+    {
+      "Name": "Red Vampire Bat 3",
+      "X": 218,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "c4559acf-a0b1-4b8e-9740-baa8fbc088fc"
+    },
+    {
+      "Name": "Purple Vampire Bat Idle",
+      "X": 237,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "4378458b-8e3c-4a83-97e1-57541c280c22"
+    },
+    {
+      "Name": "Purple Vampire Bat 1",
+      "X": 254,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "0d187ab1-c07b-40f3-bbf3-e81c9c5ae8b3"
+    },
+    {
+      "Name": "Purple Vampire Bat 2",
+      "X": 271,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "9dae4711-50a4-4ca5-b49e-3225f2021d8c"
+    },
+    {
+      "Name": "Purple Vampire Bat 3",
+      "X": 288,
+      "Y": 11,
+      "Width": 16,
+      "Height": 16,
+      "FlipHorizontal": false,
+      "Id": "435e4317-4a70-4431-930b-569eb2c185f4"
+    },
+    {
+      "Name": "Fish Man Stand",
+      "X": 309,
+      "Y": 28,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "3caaae20-b627-441a-ba2d-459c81973e5a"
+    },
+    {
+      "Name": "Fish Man Walk",
+      "X": 326,
+      "Y": 28,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "0ad2db1c-7a50-450e-927a-cc24997a6820"
+    },
+    {
+      "Name": "Fish Man Shoot 1",
+      "X": 343,
+      "Y": 28,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "cb452cb5-64aa-4124-88e0-8d5814d12ab7"
+    },
+    {
+      "Name": "Fish Fish Man Shoot 2",
+      "X": 360,
+      "Y": 28,
+      "Width": 16,
+      "Height": 32,
+      "FlipHorizontal": false,
+      "Id": "8a55801d-f43b-49c2-a5b2-d5a5c9835636"
+    }
+  ]
+}

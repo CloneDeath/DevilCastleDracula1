@@ -3,7 +3,7 @@
   "Name": "Zombie",
   "Health": 1,
   "Experience": 1,
-  "Attack": 1,
+  "Attack": 2,
   "PhysicalDefense": 0,
   "MagicalDefense": 0,
   "MoveSpeed": 3.0,
@@ -17,16 +17,16 @@
   "Animations": [
     {
       "Id": "29d944e7-016e-4f92-8e15-ef88c6f895d9",
-      "Name": "animation",
+      "Name": "idle",
       "Frames": [
         {
           "Duration": 1.0,
-          "Source": "",
-          "SpriteId": "00000000-0000-0000-0000-000000000000",
+          "Source": "Enemies.dcsa",
+          "SpriteId": "9227a1ec-0c67-444c-9e58-60c43590ba7d",
           "Origin": {
             "Anchor": {
               "X": 0,
-              "Y": 0
+              "Y": 1
             },
             "Offset": {
               "X": 0,
@@ -34,9 +34,46 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "HitBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 16,
+            "Height": 32
+          },
+          "HurtBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 16,
+            "Height": 32
+          }
+        },
+        {
+          "Duration": 1.0,
+          "Source": "Enemies.dcsa",
+          "SpriteId": "a5222f32-a69d-4faa-856c-a6850f2afab7",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "HitBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 16,
+            "Height": 31
+          },
+          "HurtBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 16,
+            "Height": 31
+          }
         }
       ]
     }
@@ -44,7 +81,7 @@
   "States": [
     {
       "Id": "451e81b5-0523-4b72-be38-dc21b262fca5",
-      "Name": "state",
+      "Name": "spawn",
       "Animation": "29d944e7-016e-4f92-8e15-ef88c6f895d9",
       "Transitions": [
         {
@@ -52,8 +89,6 @@
           "Name": "",
           "TargetState": "00000000-0000-0000-0000-000000000000",
           "When": {
-            "Self": null,
-            "Animation": null,
             "RandomTimerExpires": {
               "Start": {
                 "Seconds": 0.0
