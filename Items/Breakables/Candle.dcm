@@ -1,4 +1,6 @@
 {
+  "Id": "81293d45-0db9-42ff-978b-e94cbe389373",
+  "Name": "Candle",
   "Health": 1,
   "Experience": 1,
   "Attack": 0,
@@ -11,8 +13,6 @@
     "Width": 8,
     "Height": 16
   },
-  "Id": "81293d45-0db9-42ff-978b-e94cbe389373",
-  "Name": "Candle",
   "InitialState": "6e59d1ed-ba17-4a40-bc3d-8fa591648ca9",
   "Animations": [
     {

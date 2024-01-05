@@ -1,9 +1,9 @@
 {
-  "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
-  "OnPickup": [],
   "Id": "f485172f-cfb5-4240-945f-7bcb6be8bbcb",
   "Name": "Heart",
-  "InitialState": "00000000-0000-0000-0000-000000000000",
+  "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
+  "OnPickup": [],
+  "InitialState": "14c62fc2-1992-4376-abda-726a43159fbc",
   "Animations": [
     {
       "Id": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",

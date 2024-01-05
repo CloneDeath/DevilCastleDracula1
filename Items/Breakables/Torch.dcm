@@ -34,14 +34,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 0,
             "Y": 0,
             "Width": 16,
             "Height": 32
-          },
-          "HurtBox": null
+          }
         },
         {
           "Duration": 0.3,
@@ -58,14 +56,12 @@
             }
           },
           "Slots": [],
-          "Audio": null,
           "HitBox": {
             "X": 0,
             "Y": 0,
             "Width": 16,
             "Height": 32
-          },
-          "HurtBox": null
+          }
         }
       ]
     }
@@ -81,9 +77,7 @@
           "Name": "on break",
           "TargetState": "60ac743b-c81c-4b43-bc0f-882dd7e414e6",
           "When": {
-            "Self": "Killed",
-            "Animation": null,
-            "RandomTimerExpires": null
+            "Self": "Killed"
           }
         }
       ],
