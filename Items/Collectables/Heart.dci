@@ -32,11 +32,12 @@
     {
       "Id": "14c62fc2-1992-4376-abda-726a43159fbc",
       "Name": "Falling",
-      "Animation": "00000000-0000-0000-0000-000000000000",
+      "Animation": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
       "Transitions": [],
       "OnEnter": [],
       "OnUpdate": [],
       "OnExit": []
     }
-  ]
+  ],
+  "Variables": []
 }

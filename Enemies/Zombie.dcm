@@ -104,5 +104,6 @@
       "OnUpdate": [],
       "OnExit": []
     }
-  ]
+  ],
+  "Variables": []
 }
