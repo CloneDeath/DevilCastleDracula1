@@ -99,7 +99,7 @@
     {
       "Id": "cd1aa749-5ff0-4d49-bba3-1419987d5cfb",
       "Name": "Item Drop",
-      "DataType": "Item",
+      "Type": "Item",
       "DefaultValue": "f485172f-cfb5-4240-945f-7bcb6be8bbcb"
     }
   ]

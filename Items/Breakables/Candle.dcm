@@ -97,10 +97,10 @@
   ],
   "Variables": [
     {
+      "DefaultValue": "f485172f-cfb5-4240-945f-7bcb6be8bbcb",
       "Id": "fe74f867-1dc3-4e36-8932-361ab6e147ab",
       "Name": "Item Drop",
-      "DataType": "Item",
-      "DefaultValue": "f485172f-cfb5-4240-945f-7bcb6be8bbcb"
+      "Type": "Item"
     }
   ]
 }
