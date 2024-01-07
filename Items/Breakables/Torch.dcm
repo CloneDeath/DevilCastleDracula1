@@ -93,6 +93,20 @@
       "Transitions": [],
       "OnEnter": [
         {
+          "SpawnItem": {
+            "RelativeTo": "Self",
+            "Instance": {
+              "Variable": "cd1aa749-5ff0-4d49-bba3-1419987d5cfb"
+            },
+            "Offset": {
+              "Value": {
+                "X": 0,
+                "Y": -24
+              }
+            }
+          }
+        },
+        {
           "Self": "Despawn"
         }
       ],
