@@ -1,6 +1,7 @@
 {
   "Id": "81293d45-0db9-42ff-978b-e94cbe389373",
   "Name": "Candle",
+  "DespawnOnDeath": false,
   "Health": 1,
   "Experience": 1,
   "Attack": 0,
@@ -90,7 +91,25 @@
       "Name": "broken",
       "Animation": "05452a48-5b23-4ddf-b80f-026881dd4b7f",
       "Transitions": [],
-      "OnEnter": [],
+      "OnEnter": [
+        {
+          "SpawnItem": {
+            "RelativeTo": "Self",
+            "Instance": {
+              "Variable": "fe74f867-1dc3-4e36-8932-361ab6e147ab"
+            },
+            "Offset": {
+              "Value": {
+                "X": 0,
+                "Y": 0
+              }
+            }
+          }
+        },
+        {
+          "Self": "Despawn"
+        }
+      ],
       "OnUpdate": [],
       "OnExit": []
     }

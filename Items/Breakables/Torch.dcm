@@ -1,6 +1,7 @@
 {
   "Id": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
   "Name": "Torch",
+  "DespawnOnDeath": false,
   "Health": 1,
   "Experience": 1,
   "Attack": 0,
@@ -90,17 +91,21 @@
       "Name": "broken",
       "Animation": "05337f94-71d0-4b24-8e92-37039e3de1da",
       "Transitions": [],
-      "OnEnter": [],
+      "OnEnter": [
+        {
+          "Self": "Despawn"
+        }
+      ],
       "OnUpdate": [],
       "OnExit": []
     }
   ],
   "Variables": [
     {
+      "DefaultValue": "f485172f-cfb5-4240-945f-7bcb6be8bbcb",
       "Id": "cd1aa749-5ff0-4d49-bba3-1419987d5cfb",
       "Name": "Item Drop",
-      "Type": "Item",
-      "DefaultValue": "f485172f-cfb5-4240-945f-7bcb6be8bbcb"
+      "Type": "Item"
     }
   ]
 }
