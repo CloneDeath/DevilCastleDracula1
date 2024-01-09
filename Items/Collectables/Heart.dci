@@ -3,6 +3,10 @@
   "Name": "Heart",
   "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
   "OnPickup": [],
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
   "InitialState": "14c62fc2-1992-4376-abda-726a43159fbc",
   "Animations": [
     {
@@ -31,13 +35,45 @@
   "States": [
     {
       "Id": "14c62fc2-1992-4376-abda-726a43159fbc",
-      "Name": "Falling",
+      "Name": "Falling Right",
       "Animation": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
-      "Transitions": [],
+      "Transitions": [
+        {
+          "Id": "1efb93b4-2f82-4e3f-b44c-8c52bbeb4818",
+          "Name": "hit right",
+          "TargetState": "9e2dd97e-8727-4ec2-b7c1-32baa812e121",
+          "When": {
+            "Self": "Killed"
+          }
+        }
+      ],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    },
+    {
+      "Id": "9e2dd97e-8727-4ec2-b7c1-32baa812e121",
+      "Name": "Falling Left",
+      "Animation": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
+      "Transitions": [
+        {
+          "Id": "28a3dd39-d429-4186-9fe6-63dc8cf62ab5",
+          "Name": "hit left",
+          "TargetState": "14c62fc2-1992-4376-abda-726a43159fbc",
+          "When": {}
+        }
+      ],
       "OnEnter": [],
       "OnUpdate": [],
       "OnExit": []
     }
   ],
-  "Variables": []
+  "Variables": [
+    {
+      "DefaultValue": 3.0,
+      "Id": "6b459a91-eb62-499c-adc2-99c56ce55396",
+      "Name": "Velocity",
+      "Type": "Float"
+    }
+  ]
 }

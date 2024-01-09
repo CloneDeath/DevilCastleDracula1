@@ -21,8 +21,6 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
@@ -52,7 +50,6 @@
           },
           "Slots": [],
           "Audio": "Attack.wav",
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
@@ -81,8 +78,6 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,

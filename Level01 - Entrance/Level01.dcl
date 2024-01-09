@@ -34,8 +34,7 @@
         }
       ],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Black",
@@ -44,8 +43,7 @@
       "SpriteId": "e2932090-2c0f-4c69-89aa-99b4f772612d",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Tree",
@@ -54,8 +52,7 @@
       "SpriteId": "59fed984-12a6-4f54-9a6a-4f8b2802e4bf",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Statue",
@@ -64,8 +61,7 @@
       "SpriteId": "6f2a6a01-ee0c-4be0-b55a-2280bb00a159",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Statue Base Left",
@@ -74,8 +70,7 @@
       "SpriteId": "3d9b8dd4-08ce-4bc9-b770-c60c8b3f43b5",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Statue Base Center",
@@ -84,8 +79,7 @@
       "SpriteId": "53af43aa-8b25-4bea-bae3-5aa5f9cc622e",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Statue Base Right",
@@ -94,8 +88,7 @@
       "SpriteId": "cf2c79f3-1d0a-41ae-b2f2-e8504510d769",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Tree Top",
@@ -104,8 +97,7 @@
       "SpriteId": "8d2af831-adae-44e4-a016-a411d734a541",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Tree Middle",
@@ -114,8 +106,7 @@
       "SpriteId": "e53be239-b9af-44c9-a013-66b637248913",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Tree Bottom",
@@ -124,8 +115,7 @@
       "SpriteId": "5a816b63-8f77-4fd1-a10a-5a42b9973e92",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Sky",
@@ -134,8 +124,7 @@
       "SpriteId": "06f91697-376c-442e-b107-24ae807c5400",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Fence",
@@ -144,8 +133,7 @@
       "SpriteId": "77a75be3-2c92-4722-9bd1-e071036e17d1",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush Left",
@@ -154,8 +142,7 @@
       "SpriteId": "ee0f0963-9dff-4998-823d-59a041621463",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush Center",
@@ -164,8 +151,7 @@
       "SpriteId": "410b76c0-fb4b-43b0-8e21-d34136d317f2",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush Right",
@@ -174,8 +160,7 @@
       "SpriteId": "46bcbc0e-ec79-4002-a789-4ece2b1ec223",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Shadow",
@@ -184,8 +169,7 @@
       "SpriteId": "01a9e5e1-928b-4d75-b9e7-192b3c9dc337",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Base Left",
@@ -194,8 +178,7 @@
       "SpriteId": "13254362-01cd-452c-b3c1-ae86a5b4fda2",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Base Right",
@@ -204,8 +187,7 @@
       "SpriteId": "b7cb6aa2-8a38-40d4-87c1-37a85a8b48e3",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Left",
@@ -214,8 +196,7 @@
       "SpriteId": "1bbdc35b-67a0-4cca-b2b2-6b57fcf4c6e4",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Window Left",
@@ -224,8 +205,7 @@
       "SpriteId": "644ad15c-39cd-4e58-af91-092c9c977fa3",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Top",
@@ -234,8 +214,7 @@
       "SpriteId": "e6649c9d-9d98-4786-9fea-e6e53c5bc08b",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Right",
@@ -244,8 +223,7 @@
       "SpriteId": "37c41c6e-877b-4d47-a197-c407b1594c0f",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Right 2",
@@ -254,8 +232,7 @@
       "SpriteId": "6a039560-17cb-43e7-b4c2-dcf8a027ee9a",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Right 3",
@@ -264,8 +241,7 @@
       "SpriteId": "d1607845-ed65-4977-b4c5-2f8b0f00630a",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Half Left",
@@ -274,8 +250,7 @@
       "SpriteId": "76490996-e21c-4104-a4e5-31ef1358fa16",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall",
@@ -284,8 +259,7 @@
       "SpriteId": "508d5605-83a9-480f-a6d1-52bb6ee6f068",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Reticulation Left",
@@ -294,8 +268,7 @@
       "SpriteId": "d448df27-fddd-4c59-b47c-658b8a6c8064",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Reticulation Window",
@@ -304,8 +277,7 @@
       "SpriteId": "32a80575-ae56-445c-aada-9eaf5f0364e6",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush 1",
@@ -314,8 +286,7 @@
       "SpriteId": "dfc52e80-d58b-4e61-8699-b9bf0ee234be",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush 2",
@@ -324,8 +295,7 @@
       "SpriteId": "a1fb8c37-d62c-43cb-8d7a-8dd80a3d9596",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush 3",
@@ -334,8 +304,7 @@
       "SpriteId": "79c7d4ed-6607-4cda-b89c-c9d9a5a8ee20",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Bush 4",
@@ -344,8 +313,7 @@
       "SpriteId": "e33c637c-4524-4645-ac8a-a46b2c6d42f6",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Left 2",
@@ -354,8 +322,7 @@
       "SpriteId": "90fed809-3540-4bbd-bf37-d1bddc4c4b89",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Right Arch",
@@ -364,8 +331,7 @@
       "SpriteId": "898a6faf-b047-4471-bcce-6cc09da2ff24",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Arch",
@@ -374,8 +340,7 @@
       "SpriteId": "e30d5ce2-43a4-4eaa-a522-528a418dada4",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Castle Wall Right 3",
@@ -384,8 +349,7 @@
       "SpriteId": "f52fc17f-981d-47ba-a008-8d28d3e31be7",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Hall Floor",
@@ -411,8 +375,7 @@
         }
       ],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Hall Wall 1",
@@ -421,8 +384,7 @@
       "SpriteId": "839798c0-d6a7-425b-b1a8-1e8687bf913e",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Hall Wall 2",
@@ -431,8 +393,7 @@
       "SpriteId": "4e11dff8-5522-4556-a3d6-260247c40237",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Hall Wall 3",
@@ -441,8 +402,7 @@
       "SpriteId": "88e0aca5-5263-4a93-bd1a-2bc18dafbfe4",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Hall Wall 4",
@@ -451,8 +411,7 @@
       "SpriteId": "9eb1676c-81e5-4d43-b773-9fde845b7fbd",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Pillar Top",
@@ -461,8 +420,7 @@
       "SpriteId": "c56de90f-ad29-4417-bf15-6baae6fdc221",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Pillar Middle",
@@ -471,8 +429,7 @@
       "SpriteId": "0496171a-16aa-4b60-8fad-56aa69509478",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Pillar Bottom",
@@ -481,8 +438,7 @@
       "SpriteId": "4e33d877-5f38-45af-b39a-dfaf3b6356fc",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Curtain Top",
@@ -491,8 +447,7 @@
       "SpriteId": "9814f6cd-70d0-4c05-8aac-c7a285e43c75",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Curtain Middle",
@@ -501,8 +456,7 @@
       "SpriteId": "7cccc3e4-6cef-4ee1-a58c-9ea52cd29ce9",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Curtain Bottom",
@@ -511,8 +465,7 @@
       "SpriteId": "12d57770-d57b-404b-bf66-c6c1091bae69",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Window",
@@ -521,8 +474,7 @@
       "SpriteId": "4d962d81-7f13-4b30-b97d-b1402aaca40b",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Curtain Top 2",
@@ -531,8 +483,7 @@
       "SpriteId": "db22c5a8-07d4-4abc-8b5d-dad5507b82b2",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Stairs Up",
@@ -579,8 +530,7 @@
       "SpriteId": "f67a9bd2-d97c-43de-8554-86fbe6cd2424",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Below Stair Down",
@@ -589,8 +539,7 @@
       "SpriteId": "36ad5d0e-7702-4922-8ff3-1de8271dabc3",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Below Stair Up 2",
@@ -599,8 +548,7 @@
       "SpriteId": "2936c645-efaa-4eca-af94-4ab1311b240d",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stair Up Rail Start",
@@ -609,8 +557,7 @@
       "SpriteId": "c2272216-7cd7-471d-8d12-2c3672abf455",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stair Up Mid 1",
@@ -619,8 +566,7 @@
       "SpriteId": "a4443a3e-31de-44f2-9d68-1be60bbcf20c",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Stair Up Mid 1",
@@ -629,8 +575,7 @@
       "SpriteId": "bd878f05-10c4-4f3d-90a0-4e409f003095",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Fence 1",
@@ -639,8 +584,7 @@
       "SpriteId": "490fded2-3df8-421d-a4d6-865507cc6a47",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Fence 2",
@@ -649,8 +593,7 @@
       "SpriteId": "5fafb936-7059-404c-9cac-5bfcc573cfd1",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stair Up Mid 3",
@@ -659,8 +602,7 @@
       "SpriteId": "21d380ea-9ffb-4db0-b931-4edc4f5e7e6b",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stairs Down Rail Top",
@@ -669,8 +611,7 @@
       "SpriteId": "3cbe1335-9bfe-4466-a6cb-7e56e97e5cf7",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stairs Down Rail Mid",
@@ -679,8 +620,7 @@
       "SpriteId": "695129cf-b7d6-40cd-a996-b825d68ecf5e",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Stairs Down Rail Bottom",
@@ -689,8 +629,7 @@
       "SpriteId": "36731039-59ce-464b-ac39-1a9bbcfecbe5",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Half Wall Right",
@@ -699,8 +638,7 @@
       "SpriteId": "c115dff0-17ca-44c8-b291-eb634e2d8e83",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Transition 1",
@@ -709,8 +647,7 @@
       "SpriteId": "b44522b5-1cbe-4e8f-8791-702489b5240f",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Transition 2",
@@ -719,8 +656,7 @@
       "SpriteId": "211232d8-9c8e-4c87-953c-bdba9bf0f419",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Transition 3",
@@ -729,8 +665,7 @@
       "SpriteId": "0691e6b7-2d1a-41ec-b220-d47f1ac815f6",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Door",
@@ -739,8 +674,7 @@
       "SpriteId": "f5591e47-4b8c-47b8-9fde-7c74945755cd",
       "Collision": [],
       "Width": 1,
-      "Height": 3,
-      "Stairs": null
+      "Height": 3
     },
     {
       "Name": "Half Wall Left",
@@ -749,8 +683,7 @@
       "SpriteId": "65d3ab18-36d9-448b-b275-59cfd4d6731f",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Wall 1",
@@ -759,8 +692,7 @@
       "SpriteId": "b43bf975-0414-4ea2-bdbe-a220e46d4bdf",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Wall Damage",
@@ -769,8 +701,7 @@
       "SpriteId": "9c39882b-7ed6-49cf-aa21-b573add1848f",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Crypt Wall Hole",
@@ -779,8 +710,7 @@
       "SpriteId": "52ac76a0-f0fe-4805-b4b4-86d8ae2acbbd",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Crypt Pillar Bottom",
@@ -789,8 +719,7 @@
       "SpriteId": "73c5491e-ab48-40ac-9e70-1b187adced69",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Pillar Mid Damage",
@@ -799,8 +728,7 @@
       "SpriteId": "dc986533-61de-4d64-8145-c6109d653b30",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Crypt Pillar Mid",
@@ -809,8 +737,7 @@
       "SpriteId": "6782c6bc-7716-4179-a570-f5a79f5c0b98",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Pillar Top",
@@ -819,8 +746,7 @@
       "SpriteId": "b22182c1-6379-47ad-a62b-87f5e857fbf9",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Solid 4",
@@ -846,8 +772,7 @@
         }
       ],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Solid 3",
@@ -873,8 +798,7 @@
         }
       ],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Stairs Down Rail",
@@ -883,8 +807,7 @@
       "SpriteId": "212bb2a3-183a-43fc-9b73-10650ab005bc",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Window",
@@ -893,8 +816,7 @@
       "SpriteId": "f8e67716-6cad-4f98-9d89-248ba35dc4eb",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Under Stairs",
@@ -903,8 +825,7 @@
       "SpriteId": "db5f7b80-6549-475a-860b-4263f0be3686",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Stairs Down",
@@ -932,8 +853,7 @@
       "SpriteId": "284649d8-f23c-4ab8-b648-9e2c7aa0a67d",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Pillar 2 Left",
@@ -942,8 +862,7 @@
       "SpriteId": "cdafb50d-43cf-4697-8b88-cd22005c051f",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Pillar 2 Left Orange",
@@ -952,8 +871,7 @@
       "SpriteId": "5641a47e-dd46-4df6-97d6-bfa43aa198b9",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt Pillar 2 Right",
@@ -979,8 +897,7 @@
         }
       ],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt B Stairs Down",
@@ -989,8 +906,7 @@
       "SpriteId": "21081b26-f491-4fc2-b6e5-0bca78a481e6",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Crypt B Stairs",
@@ -1018,8 +934,7 @@
       "SpriteId": "83e3317a-6f2e-4f37-83f9-4a9cb7198728",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stalactite B",
@@ -1028,8 +943,7 @@
       "SpriteId": "e02fa8e8-ac04-469e-bbbe-e74af5b6bd89",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Stalactite C",
@@ -1038,8 +952,7 @@
       "SpriteId": "eba408e6-3679-49fa-9f42-a1b40ff03f19",
       "Collision": [],
       "Width": 2,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Stalactite C",
@@ -1048,8 +961,7 @@
       "SpriteId": "6fd43805-953e-4ec4-8b3c-91174d0aa7bb",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Sewer Grate",
@@ -1058,8 +970,7 @@
       "SpriteId": "c2b1f437-2d85-40b1-892c-5f99bce91918",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Water",
@@ -1068,8 +979,7 @@
       "SpriteId": "4737bceb-e16d-4183-8b32-a2df9b593efb",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Under Stairs 2",
@@ -1078,8 +988,7 @@
       "SpriteId": "1f9c3c50-bbfe-42d3-9606-072079a8191b",
       "Collision": [],
       "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Height": 1
     },
     {
       "Name": "Arch Left",
@@ -1088,8 +997,7 @@
       "SpriteId": "f928bd8d-e0f3-4ece-aa93-7e47e5b5284e",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     },
     {
       "Name": "Arch Right",
@@ -1098,8 +1006,7 @@
       "SpriteId": "786fa02d-0182-410d-b8a1-3d0d892a10f0",
       "Collision": [],
       "Width": 2,
-      "Height": 2,
-      "Stairs": null
+      "Height": 2
     }
   ],
   "Areas": [
@@ -1143,6 +1050,13 @@
           "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
           "Position": {
             "X": 38.0,
+            "Y": 10.0
+          }
+        },
+        {
+          "MonsterId": "0d724425-8fa2-49bc-9f52-7a57a70f5732",
+          "Position": {
+            "X": 10.0,
             "Y": 10.0
           }
         }

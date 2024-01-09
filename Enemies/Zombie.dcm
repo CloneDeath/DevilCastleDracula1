@@ -1,6 +1,7 @@
 {
   "Id": "0d724425-8fa2-49bc-9f52-7a57a70f5732",
   "Name": "Zombie",
+  "DespawnOnDeath": true,
   "Health": 1,
   "Experience": 1,
   "Attack": 2,
@@ -13,7 +14,7 @@
     "Width": 16,
     "Height": 16
   },
-  "InitialState": "00000000-0000-0000-0000-000000000000",
+  "InitialState": "451e81b5-0523-4b72-be38-dc21b262fca5",
   "Animations": [
     {
       "Id": "29d944e7-016e-4f92-8e15-ef88c6f895d9",
@@ -83,25 +84,17 @@
       "Id": "451e81b5-0523-4b72-be38-dc21b262fca5",
       "Name": "spawn",
       "Animation": "29d944e7-016e-4f92-8e15-ef88c6f895d9",
-      "Transitions": [
+      "Transitions": [],
+      "OnEnter": [
         {
-          "Id": "91793a85-2ddb-4686-bee2-29d08591411b",
-          "Name": "",
-          "TargetState": "00000000-0000-0000-0000-000000000000",
-          "When": {
-            "RandomTimerExpires": {
-              "Start": {
-                "Seconds": 0.0
-              },
-              "End": {
-                "Seconds": 0.0
-              }
-            }
-          }
+          "Face": "TowardsClosestPlayer"
         }
       ],
-      "OnEnter": [],
-      "OnUpdate": [],
+      "OnUpdate": [
+        {
+          "Move": "Forward"
+        }
+      ],
       "OnExit": []
     }
   ],
