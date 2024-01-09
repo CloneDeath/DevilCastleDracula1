@@ -60,7 +60,9 @@
           "Id": "28a3dd39-d429-4186-9fe6-63dc8cf62ab5",
           "Name": "hit left",
           "TargetState": "14c62fc2-1992-4376-abda-726a43159fbc",
-          "When": {}
+          "When": {
+            "Self": "Killed"
+          }
         }
       ],
       "OnEnter": [],
