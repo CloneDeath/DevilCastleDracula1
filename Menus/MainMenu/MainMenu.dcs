@@ -14,15 +14,15 @@
   "Elements": [
     {
       "SpriteFile": "MainManu.dcsa",
-      "SpriteId": "4df7c2a4-641c-4b82-819e-7a3d88c5065a",
-      "Name": "Background",
-      "Id": "5de8b43d-1d27-4932-83c9-3d8d181e85bc",
+      "SpriteId": "d5b070a8-019b-4129-b0bc-2b92e40d5ec3",
+      "Name": "Press Start",
+      "Id": "228679d1-bb1a-4247-b8ee-b5f903522588",
       "Type": "Sprite",
       "Region": {
-        "X": 0,
-        "Y": 0,
-        "Width": 256,
-        "Height": 240
+        "X": 72,
+        "Y": 136,
+        "Width": 0,
+        "Height": 0
       }
     },
     {
@@ -40,15 +40,15 @@
     },
     {
       "SpriteFile": "MainManu.dcsa",
-      "SpriteId": "d5b070a8-019b-4129-b0bc-2b92e40d5ec3",
-      "Name": "Press Start",
-      "Id": "228679d1-bb1a-4247-b8ee-b5f903522588",
+      "SpriteId": "4df7c2a4-641c-4b82-819e-7a3d88c5065a",
+      "Name": "Background",
+      "Id": "5de8b43d-1d27-4932-83c9-3d8d181e85bc",
       "Type": "Sprite",
       "Region": {
-        "X": 72,
-        "Y": 136,
-        "Width": 0,
-        "Height": 0
+        "X": 0,
+        "Y": 0,
+        "Width": 256,
+        "Height": 240
       }
     }
   ],
@@ -69,7 +69,7 @@
     {
       "Name": "Initialization",
       "When": {
-        "ThisScene": "Enter"
+        "ThisScene": "Exit"
       },
       "Then": [
         {

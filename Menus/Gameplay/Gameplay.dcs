@@ -164,6 +164,7 @@
       }
     },
     {
+      "Source": "PlayerHP",
       "SpriteFile": "Health.dcsg",
       "SpriteId": "d8a62e94-2578-4280-bf81-bcb610568ec2",
       "Name": "Player Health",
@@ -197,6 +198,7 @@
       }
     },
     {
+      "Source": "PlayerHP",
       "SpriteFile": "Health.dcsg",
       "SpriteId": "3c15775d-aa5f-45ad-aa90-e74e4e3d7165",
       "Name": "Enemy Health",
