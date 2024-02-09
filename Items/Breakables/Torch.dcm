@@ -121,5 +121,6 @@
       "Name": "Item Drop",
       "Type": "Item"
     }
-  ]
+  ],
+  "FileVersion": 1
 }

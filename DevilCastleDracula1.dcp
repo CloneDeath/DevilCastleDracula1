@@ -1,5 +1,6 @@
 {
   "Name": "Devil Castle Dracula 1",
   "Version": "0.0",
-  "StartScene": "Menus/MainMenu/MainMenu.dcs"
+  "StartScene": "Menus/MainMenu/MainMenu.dcs",
+  "FileVersion": 1
 }
