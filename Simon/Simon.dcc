@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Name": "Simon Belmont",
   "Enabled": true,
   "WalkSpeed": 6.0,

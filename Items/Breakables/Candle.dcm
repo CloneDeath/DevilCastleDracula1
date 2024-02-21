@@ -1,7 +1,6 @@
 {
   "Id": "81293d45-0db9-42ff-978b-e94cbe389373",
   "Name": "Candle",
-  "DespawnOnDeath": false,
   "Health": 1,
   "Experience": 1,
   "Attack": 0,
@@ -10,11 +9,13 @@
   "MoveSpeed": 0.0,
   "JumpHeight": 0.0,
   "Gravity": 0.0,
+  "DespawnOnDeath": false,
   "Size": {
     "Width": 8,
     "Height": 16
   },
   "InitialState": "6e59d1ed-ba17-4a40-bc3d-8fa591648ca9",
+  "FileVersion": 1,
   "Animations": [
     {
       "Id": "05452a48-5b23-4ddf-b80f-026881dd4b7f",
@@ -101,7 +102,7 @@
             "Offset": {
               "Value": {
                 "X": 0,
-                "Y": 0
+                "Y": -10
               }
             }
           }
@@ -121,6 +122,5 @@
       "Name": "Item Drop",
       "Type": "Item"
     }
-  ],
-  "FileVersion": 1
+  ]
 }

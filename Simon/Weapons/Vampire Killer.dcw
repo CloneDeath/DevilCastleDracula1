@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Id": "5a161153-ee92-4eb9-8bcf-7d563bc41079",
   "Name": "Vampire Killer",
   "Animations": [
@@ -21,12 +22,10 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
-            "Width": 9,
+            "Width": 8,
             "Height": 24
           }
         },
@@ -45,12 +44,10 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
-            "Width": 9,
+            "Width": 8,
             "Height": 23
           }
         },
@@ -69,12 +66,10 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
-            "Width": 9,
+            "Width": 8,
             "Height": 23
           }
         }
@@ -99,8 +94,6 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
@@ -123,8 +116,6 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
@@ -147,8 +138,6 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
@@ -177,13 +166,11 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
             "Width": 42,
-            "Height": 9
+            "Height": 6
           }
         },
         {
@@ -201,13 +188,11 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
             "Width": 42,
-            "Height": 9
+            "Height": 6
           }
         },
         {
@@ -225,17 +210,14 @@
             }
           },
           "Slots": [],
-          "Audio": null,
-          "HitBox": null,
           "HurtBox": {
             "X": 0,
             "Y": 0,
             "Width": 42,
-            "Height": 9
+            "Height": 6
           }
         }
       ]
     }
-  ],
-  "FileVersion": 1
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "Id": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
   "Name": "Torch",
-  "DespawnOnDeath": false,
   "Health": 1,
   "Experience": 1,
   "Attack": 0,
@@ -10,11 +9,13 @@
   "MoveSpeed": 0.0,
   "JumpHeight": 0.0,
   "Gravity": 0.0,
+  "DespawnOnDeath": false,
   "Size": {
     "Width": 16,
     "Height": 32
   },
   "InitialState": "9b2614ad-feb8-41dc-bd27-7216a3bd01a2",
+  "FileVersion": 1,
   "Animations": [
     {
       "Id": "05337f94-71d0-4b24-8e92-37039e3de1da",
@@ -121,6 +122,5 @@
       "Name": "Item Drop",
       "Type": "Item"
     }
-  ],
-  "FileVersion": 1
+  ]
 }

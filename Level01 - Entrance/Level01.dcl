@@ -1,5 +1,7 @@
 {
+  "FileVersion": 3,
   "Name": "Entrance",
+  "Id": "4d6547ba-0971-49cf-923f-be70149eaa73",
   "TileWidth": 16,
   "TileHeight": 16,
   "AreaWidth": 16,
@@ -11,8 +13,8 @@
   },
   "Tiles": [
     {
-      "Name": "Outside Floor",
       "Id": "23871ddf-c6d8-4591-bf36-1c2288fc122a",
+      "Name": "Outside Floor",
       "Collision": [
         {
           "X": 0.0,
@@ -55,10 +57,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -73,11 +72,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Black",
       "Id": "33b2f71a-0283-4a61-bdf6-26ab0505dd20",
+      "Name": "Black",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -103,10 +103,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -121,11 +118,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Tree",
       "Id": "bb275b96-07a7-416b-b0a0-e5718b9b31b0",
+      "Name": "Tree",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -151,10 +149,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -169,11 +164,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Statue",
       "Id": "d7349854-9154-4154-8740-4e727c180d8a",
+      "Name": "Statue",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -199,10 +195,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -217,11 +210,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Statue Base Left",
       "Id": "2af98ce0-0f97-4f99-8312-756d138be7d3",
+      "Name": "Statue Base Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -247,10 +241,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -265,11 +256,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Statue Base Center",
       "Id": "969b341a-47ee-4f78-9f24-f695ac1f7890",
+      "Name": "Statue Base Center",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -295,10 +287,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -313,11 +302,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Statue Base Right",
       "Id": "2be43fdd-b351-41a2-bfa9-686994ef13ff",
+      "Name": "Statue Base Right",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -343,10 +333,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -361,11 +348,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Tree Top",
       "Id": "c4be782f-c871-40ff-a084-f82b197b021c",
+      "Name": "Tree Top",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -391,10 +379,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -409,11 +394,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Tree Middle",
       "Id": "0f235a66-19af-40db-bd2f-aced17e71bb3",
+      "Name": "Tree Middle",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -439,10 +425,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -457,11 +440,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Tree Bottom",
       "Id": "769ae7c9-8e19-43c5-9714-308a16176dbc",
+      "Name": "Tree Bottom",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -487,10 +471,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -505,11 +486,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Sky",
       "Id": "a1b1c5f0-0273-4b9e-a8bf-d2c64699c981",
+      "Name": "Sky",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -535,10 +517,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -553,11 +532,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Fence",
       "Id": "6c628ff5-6a75-46b7-ab6e-c692e5c4d4fc",
+      "Name": "Fence",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -583,10 +563,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -601,11 +578,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush Left",
       "Id": "0563f69c-5012-4c44-8a3d-30eb7315d3ed",
+      "Name": "Bush Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -631,10 +609,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -649,11 +624,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush Center",
       "Id": "002b751c-d508-49aa-98a9-57681a32cdfa",
+      "Name": "Bush Center",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -679,10 +655,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -697,11 +670,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush Right",
       "Id": "ed258493-abae-4b53-b88d-a9bb1ad8eb22",
+      "Name": "Bush Right",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -727,10 +701,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -745,11 +716,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Shadow",
       "Id": "7cd3d3fe-a552-42bf-81e6-d5820f7ae748",
+      "Name": "Castle Shadow",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -775,10 +747,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -793,11 +762,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Base Left",
       "Id": "3445a3d1-d419-40c7-a427-e4597630dd02",
+      "Name": "Castle Base Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -823,10 +793,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -841,11 +808,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Base Right",
       "Id": "0c917dc7-7792-4819-b986-9da5f156c986",
+      "Name": "Castle Base Right",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -871,10 +839,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -889,11 +854,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Left",
       "Id": "c222b988-57b5-409a-aab2-215c1cb26c99",
+      "Name": "Castle Wall Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -919,10 +885,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -937,11 +900,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Window Left",
       "Id": "0b318245-9b1d-46b1-b27c-67563c591db4",
+      "Name": "Castle Window Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -967,10 +931,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -985,11 +946,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Top",
       "Id": "c8ab588c-2dda-410f-a430-dd5d947799f4",
+      "Name": "Castle Top",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1015,10 +977,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1033,11 +992,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Right",
       "Id": "a24bc93a-a418-405b-b66d-d7d4904d413a",
+      "Name": "Castle Wall Right",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1063,10 +1023,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1081,11 +1038,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Right 2",
       "Id": "72060810-2214-4fee-94a4-0d8722c694b8",
+      "Name": "Castle Wall Right 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1111,10 +1069,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1129,11 +1084,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Right 3",
       "Id": "1d5b0852-06fd-4b07-8495-5cf7dc53a65c",
+      "Name": "Castle Wall Right 3",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1159,10 +1115,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1177,11 +1130,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Half Left",
       "Id": "b03c3935-d0d5-40a4-94da-501ff00a904f",
+      "Name": "Castle Half Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1207,10 +1161,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1225,11 +1176,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall",
       "Id": "58dacf20-4ea8-41fb-85e2-affd22c0f003",
+      "Name": "Castle Wall",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1255,10 +1207,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1273,11 +1222,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Reticulation Left",
       "Id": "2eec71bf-04b8-42dd-aa15-a0758ad47f22",
+      "Name": "Castle Reticulation Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1303,10 +1253,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1321,11 +1268,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Reticulation Window",
       "Id": "191ecb27-7f17-46e0-b047-39f3926e0709",
+      "Name": "Castle Reticulation Window",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1351,10 +1299,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1369,11 +1314,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush 1",
       "Id": "fa643775-aaec-4642-b9ca-88c79e57abce",
+      "Name": "Bush 1",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1399,10 +1345,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1417,11 +1360,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush 2",
       "Id": "37872ba4-8af9-41aa-98e7-2520cf0e2c34",
+      "Name": "Bush 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1447,10 +1391,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1465,11 +1406,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush 3",
       "Id": "3eb227aa-12e5-4742-84ad-92de2a6a246f",
+      "Name": "Bush 3",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1495,10 +1437,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1513,11 +1452,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Bush 4",
       "Id": "ee83deee-96c0-4f25-9a0d-64b47ecfea45",
+      "Name": "Bush 4",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1543,10 +1483,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1561,11 +1498,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Left 2",
       "Id": "7037499d-109f-4811-a7ac-5073c86bc278",
+      "Name": "Castle Wall Left 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1591,10 +1529,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1609,11 +1544,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Right Arch",
       "Id": "3d0ab33e-4613-40a2-a2ec-2f1531a71b37",
+      "Name": "Castle Wall Right Arch",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1639,10 +1575,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1657,11 +1590,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Arch",
       "Id": "96ab2059-42e5-4483-bdec-f758bc34166f",
+      "Name": "Castle Wall Arch",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1687,10 +1621,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1705,11 +1636,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Castle Wall Right 3",
       "Id": "8a7d01ab-c49f-4f48-8308-b5081c5c2922",
+      "Name": "Castle Wall Right 3",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -1735,10 +1667,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1753,11 +1682,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Hall Floor",
       "Id": "f9979de6-928c-4a37-80b3-2731b1ef1d23",
+      "Name": "Hall Floor",
       "Collision": [
         {
           "X": 0.0,
@@ -1800,10 +1730,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1818,11 +1745,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Hall Wall 1",
       "Id": "0722e179-4680-4706-9447-e759c3bf060b",
+      "Name": "Hall Wall 1",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -1848,10 +1776,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1866,11 +1791,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Hall Wall 2",
       "Id": "918651b7-9c6a-4091-b158-f20516e1e2d2",
+      "Name": "Hall Wall 2",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -1896,10 +1822,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1914,11 +1837,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Hall Wall 3",
       "Id": "69d213e4-2fd6-4097-a376-0c38051ef1eb",
+      "Name": "Hall Wall 3",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -1944,10 +1868,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -1962,11 +1883,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Hall Wall 4",
       "Id": "0394c5b2-b5d3-4446-9ad9-086b9bc2b577",
+      "Name": "Hall Wall 4",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -1992,10 +1914,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2010,11 +1929,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Pillar Top",
       "Id": "43ddeb0f-042d-489f-a401-4d9ff09423eb",
+      "Name": "Pillar Top",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2040,10 +1960,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2058,11 +1975,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Pillar Middle",
       "Id": "a3f760b9-915d-4162-ab1d-1d729e3746a6",
+      "Name": "Pillar Middle",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2088,10 +2006,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2106,11 +2021,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Pillar Bottom",
       "Id": "ec114051-7927-4779-a845-abb07da2c898",
+      "Name": "Pillar Bottom",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2136,10 +2052,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2154,11 +2067,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Curtain Top",
       "Id": "10e68bf7-9a53-4baf-9c94-2eb6d7077fcc",
+      "Name": "Curtain Top",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2184,10 +2098,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2202,11 +2113,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Curtain Middle",
       "Id": "2b2319ec-4a6e-4eb0-b175-b335e50df040",
+      "Name": "Curtain Middle",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2232,10 +2144,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2250,11 +2159,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Curtain Bottom",
       "Id": "eafa6947-f2cd-4e32-9ebe-1ff07c9e3b3e",
+      "Name": "Curtain Bottom",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2280,10 +2190,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2298,11 +2205,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Window",
       "Id": "8c202ec5-c6d8-40d3-bc4e-0ff8909fc0c4",
+      "Name": "Window",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2328,10 +2236,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2346,11 +2251,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Curtain Top 2",
       "Id": "07f67424-2dcb-4b45-8dff-e8df66c2d2a7",
+      "Name": "Curtain Top 2",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2376,10 +2282,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2394,11 +2297,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stairs Up",
       "Id": "7ab7dbe5-d6c4-43ea-be82-df591be15a49",
+      "Name": "Stairs Up",
       "Collision": [],
       "Stairs": {
         "Start": {
@@ -2434,10 +2338,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2452,11 +2353,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stairs Down",
       "Id": "3df4ae1c-6aa9-47bc-9012-d0603f745a20",
+      "Name": "Stairs Down",
       "Collision": [],
       "Stairs": {
         "Start": {
@@ -2492,10 +2394,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2510,11 +2409,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Below Stair Up 1",
       "Id": "8c916786-0992-403e-b8f8-904fc110c23c",
+      "Name": "Below Stair Up 1",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2540,10 +2440,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2558,11 +2455,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Below Stair Down",
       "Id": "9d6fa919-8df8-4f2a-836b-e770e617e26d",
+      "Name": "Below Stair Down",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2588,10 +2486,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2606,11 +2501,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Below Stair Up 2",
       "Id": "a15439d4-e654-4d0b-9c4a-2553402f3768",
+      "Name": "Below Stair Up 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2636,10 +2532,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2654,11 +2547,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stair Up Rail Start",
       "Id": "0c0e4c77-9d8e-46c9-a6f1-36d8e6ccf8fe",
+      "Name": "Stair Up Rail Start",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2684,10 +2578,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2702,11 +2593,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stair Up Mid 1",
       "Id": "b3d906cd-0af9-49e8-9aee-195576419979",
+      "Name": "Stair Up Mid 1",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -2732,10 +2624,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2750,11 +2639,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stair Up Mid 1",
       "Id": "cd2e3683-8ff6-415f-9da4-155b5e38fce8",
+      "Name": "Stair Up Mid 1",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2780,10 +2670,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2798,11 +2685,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Fence 1",
       "Id": "ba012d16-8f2e-42e3-acef-16ba650c17ae",
+      "Name": "Fence 1",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2828,10 +2716,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2846,11 +2731,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Fence 2",
       "Id": "6317bdcc-f084-4916-a005-437fb2206cc7",
+      "Name": "Fence 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2876,10 +2762,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2894,11 +2777,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stair Up Mid 3",
       "Id": "c3dccacf-9ab5-4793-84f2-af4ae4b8fd00",
+      "Name": "Stair Up Mid 3",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2924,10 +2808,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2942,11 +2823,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stairs Down Rail Top",
       "Id": "dd21666f-f1e9-486e-a66b-e53928194290",
+      "Name": "Stairs Down Rail Top",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -2972,10 +2854,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -2990,11 +2869,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stairs Down Rail Mid",
       "Id": "ce98bf2b-74de-41c8-87e2-2cebb0aa95d2",
+      "Name": "Stairs Down Rail Mid",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3020,10 +2900,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3038,11 +2915,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stairs Down Rail Bottom",
       "Id": "d699aecc-f216-458c-809a-876da3951230",
+      "Name": "Stairs Down Rail Bottom",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3068,10 +2946,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3086,11 +2961,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Half Wall Right",
       "Id": "1556e645-6610-4dbe-9fdb-9bfe03154de9",
+      "Name": "Half Wall Right",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3116,10 +2992,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3134,11 +3007,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Transition 1",
       "Id": "398858ce-dfc6-4efe-95f8-62f142653abd",
+      "Name": "Crypt Transition 1",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3164,10 +3038,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3182,11 +3053,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Transition 2",
       "Id": "ccf5dd49-e9a1-4948-9730-9f3d72d0109f",
+      "Name": "Crypt Transition 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3212,10 +3084,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3230,11 +3099,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Transition 3",
       "Id": "2b6fc910-a664-43bf-a743-fecf02350908",
+      "Name": "Crypt Transition 3",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3260,10 +3130,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3278,11 +3145,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Door",
       "Id": "a8a18db9-770d-45aa-87a4-569784c6b184",
+      "Name": "Door",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3308,10 +3176,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3326,11 +3191,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Half Wall Left",
       "Id": "fb1dbe30-6bdd-4917-9467-65188add3f6d",
+      "Name": "Half Wall Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3356,10 +3222,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3374,11 +3237,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Wall 1",
       "Id": "0b7a2e2b-d824-40ab-82fe-470dc1458b8f",
+      "Name": "Crypt Wall 1",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3404,10 +3268,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3422,11 +3283,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Wall Damage",
       "Id": "24bc0916-b169-4afd-8fbd-768720eaef4c",
+      "Name": "Crypt Wall Damage",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3452,10 +3314,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3470,11 +3329,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Wall Hole",
       "Id": "39610f41-06cf-4c0e-a105-62d90bb60ab6",
+      "Name": "Crypt Wall Hole",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3500,10 +3360,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3518,11 +3375,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar Bottom",
       "Id": "9457b571-fe73-4a6c-90a9-098364f7b06d",
+      "Name": "Crypt Pillar Bottom",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3548,10 +3406,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3566,11 +3421,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar Mid Damage",
       "Id": "c587bc1e-eec4-48d7-86b9-3a6b96e9c043",
+      "Name": "Crypt Pillar Mid Damage",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3596,10 +3452,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3614,11 +3467,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar Mid",
       "Id": "42be9ff3-fefa-49ba-a337-e8195e1a9ffe",
+      "Name": "Crypt Pillar Mid",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3644,10 +3498,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3662,11 +3513,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar Top",
       "Id": "41610e3d-e947-42cc-a426-669e3df36e27",
+      "Name": "Crypt Pillar Top",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -3692,10 +3544,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3710,11 +3559,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Solid 4",
       "Id": "6499db3f-adad-4a32-aba5-63fb0ce03fe5",
+      "Name": "Solid 4",
       "Collision": [
         {
           "X": 0.0,
@@ -3757,10 +3607,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3775,11 +3622,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Solid 3",
       "Id": "978f46e2-2a50-40ea-b0ea-8d20850ca918",
+      "Name": "Solid 3",
       "Collision": [
         {
           "X": 0.0,
@@ -3822,10 +3670,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3840,11 +3685,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Stairs Down Rail",
       "Id": "f63c2f89-7010-432f-b314-bec9d3812482",
+      "Name": "Crypt Stairs Down Rail",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3870,10 +3716,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3888,11 +3731,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Window",
       "Id": "c5a17e4e-cdb5-4a48-9864-ca9511aeb6b4",
+      "Name": "Crypt Window",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3918,10 +3762,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3936,11 +3777,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Under Stairs",
       "Id": "eb9dffa6-1a35-4e00-9e11-23f1f09b60a2",
+      "Name": "Crypt Under Stairs",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -3966,10 +3808,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -3984,11 +3823,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Stairs Down",
       "Id": "36d6801c-cb66-44f4-917d-cc05fbc9995a",
+      "Name": "Crypt Stairs Down",
       "Collision": [],
       "Stairs": {
         "Start": {
@@ -4024,10 +3864,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4042,11 +3879,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Rail Down Bottom",
       "Id": "acd4d100-8f57-4793-8e6b-33c6f3153aa1",
+      "Name": "Crypt Rail Down Bottom",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -4072,10 +3910,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4090,11 +3925,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar 2 Left",
       "Id": "d6607371-fbd9-48ef-9952-277863a79f25",
+      "Name": "Crypt Pillar 2 Left",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -4120,10 +3956,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4138,11 +3971,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar 2 Left Orange",
       "Id": "e80e60d0-2630-457e-85f2-e9d24f2683b5",
+      "Name": "Crypt Pillar 2 Left Orange",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -4168,10 +4002,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4186,11 +4017,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt Pillar 2 Right",
       "Id": "f6bc83b3-a874-4375-84d1-c992df4640c2",
+      "Name": "Crypt Pillar 2 Right",
       "Collision": [
         {
           "X": 0.0,
@@ -4233,10 +4065,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4251,11 +4080,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt B Stairs Down",
       "Id": "a519fd89-0e28-40bc-ac06-2a8574ddac1c",
+      "Name": "Crypt B Stairs Down",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -4281,10 +4111,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4299,11 +4126,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Crypt B Stairs",
       "Id": "e9b3d896-8101-4b00-9e54-f209c7315a76",
+      "Name": "Crypt B Stairs",
       "Collision": [],
       "Stairs": {
         "Start": {
@@ -4339,10 +4167,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4357,11 +4182,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stalactite A",
       "Id": "a1f96889-b849-48ad-9aa8-f33fc042ac7f",
+      "Name": "Stalactite A",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4387,10 +4213,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4405,11 +4228,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stalactite B",
       "Id": "02eb604e-1fb9-4ea4-b4f9-ff62198527a1",
+      "Name": "Stalactite B",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4435,10 +4259,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4453,11 +4274,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stalactite C",
       "Id": "048ae165-2079-48d5-9e8a-8e16192818c0",
+      "Name": "Stalactite C",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4483,10 +4305,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4501,11 +4320,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Stalactite C",
       "Id": "5d54a5de-0470-4fed-b572-385467ade222",
+      "Name": "Stalactite C",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4531,10 +4351,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4549,11 +4366,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Sewer Grate",
       "Id": "b5b147a4-0fe2-485f-9f27-bcafff600e87",
+      "Name": "Sewer Grate",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4579,10 +4397,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4597,11 +4412,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Water",
       "Id": "c918b923-024f-41fd-bb64-fe4707a67bfd",
+      "Name": "Water",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4627,10 +4443,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4645,11 +4458,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Under Stairs 2",
       "Id": "7c503a9a-05c8-42ec-bd20-06943f45279f",
+      "Name": "Under Stairs 2",
       "Collision": [],
       "Size": {
         "Width": 1,
@@ -4675,10 +4489,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4693,11 +4504,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Arch Left",
       "Id": "3f0d3928-65d8-44c2-8a55-64cd0c1e4a9a",
+      "Name": "Arch Left",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4723,10 +4535,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4741,11 +4550,12 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     },
     {
-      "Name": "Arch Right",
       "Id": "f49021db-7119-417f-8bd8-8a57ff681713",
+      "Name": "Arch Right",
       "Collision": [],
       "Size": {
         "Width": 2,
@@ -4771,10 +4581,7 @@
                   "Y": 0
                 }
               },
-              "Slots": [],
-              "Audio": null,
-              "HitBox": null,
-              "HurtBox": null
+              "Slots": []
             }
           ]
         }
@@ -4789,7 +4596,8 @@
           "OnUpdate": [],
           "OnExit": []
         }
-      ]
+      ],
+      "Variables": []
     }
   ],
   "Areas": [
@@ -4800,6 +4608,7 @@
       "Y": 1,
       "Width": 3,
       "Height": 1,
+      "TileSetIds": [],
       "Monsters": [
         {
           "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
@@ -4833,13 +4642,6 @@
           "MonsterId": "e6e13db4-45e1-496c-b4e3-bb4ea009d660",
           "Position": {
             "X": 38.0,
-            "Y": 10.0
-          }
-        },
-        {
-          "MonsterId": "0d724425-8fa2-49bc-9f52-7a57a70f5732",
-          "Position": {
-            "X": 10.0,
             "Y": 10.0
           }
         }
@@ -6570,6 +6372,7 @@
       "Y": 1,
       "Width": 6,
       "Height": 1,
+      "TileSetIds": [],
       "Monsters": [
         {
           "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
@@ -9291,6 +9094,7 @@
       "Y": 2,
       "Width": 2,
       "Height": 1,
+      "TileSetIds": [],
       "Monsters": [
         {
           "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
@@ -10655,6 +10459,7 @@
       "Y": 1,
       "Width": 2,
       "Height": 1,
+      "TileSetIds": [],
       "Monsters": [
         {
           "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
@@ -12269,6 +12074,7 @@
       "Y": 1,
       "Width": 3,
       "Height": 1,
+      "TileSetIds": [],
       "Monsters": [
         {
           "MonsterId": "81293d45-0db9-42ff-978b-e94cbe389373",
@@ -13754,6 +13560,5 @@
         }
       ]
     }
-  ],
-  "FileVersion": 3
+  ]
 }

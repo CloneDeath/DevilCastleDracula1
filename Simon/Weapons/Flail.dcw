@@ -25,7 +25,7 @@
           "HurtBox": {
             "X": 0,
             "Y": 0,
-            "Width": 9,
+            "Width": 8,
             "Height": 23
           }
         }
@@ -82,7 +82,7 @@
             "X": 0,
             "Y": 0,
             "Width": 23,
-            "Height": 9
+            "Height": 6
           }
         }
       ]

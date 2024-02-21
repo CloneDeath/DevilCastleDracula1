@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Name": "Gameplay",
   "Id": "a8e5df1f-5c0b-4a17-b327-676f87dd8093",
   "Size": {
@@ -13,6 +14,8 @@
   },
   "Elements": [
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "Score-",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -33,6 +36,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "{Player.Score:000000}",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -53,6 +58,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "Time",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -73,6 +80,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "0000",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -93,6 +102,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "Stage",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -113,6 +124,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "00",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -144,6 +157,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "Player",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -178,6 +193,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "Enemy",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -257,6 +274,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "-",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -277,6 +296,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "{Player.MP:00}",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -297,6 +318,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "P-",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,
@@ -317,6 +340,8 @@
       }
     },
     {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
       "Text": "{Player.Lives:00}",
       "FontFile": "../../Font/DevilCastle1.ttf",
       "FontSize": 8,

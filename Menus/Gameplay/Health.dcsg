@@ -28,5 +28,6 @@
       "Name": "Player",
       "FlipHorizontal": false
     }
-  ]
+  ],
+  "FileVersion": 1
 }

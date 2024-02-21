@@ -1,9 +1,6 @@
 {
   "Id": "0d724425-8fa2-49bc-9f52-7a57a70f5732",
   "Name": "Zombie",
-  "DespawnOnDeath": true,
-  "InitialState": "451e81b5-0523-4b72-be38-dc21b262fca5",
-  "FileVersion": 1,
   "Health": 1,
   "Experience": 1,
   "Attack": 2,
@@ -12,10 +9,13 @@
   "MoveSpeed": 3.0,
   "JumpHeight": 1.0,
   "Gravity": 100.0,
+  "DespawnOnDeath": true,
   "Size": {
     "Width": 16,
     "Height": 16
   },
+  "InitialState": "451e81b5-0523-4b72-be38-dc21b262fca5",
+  "FileVersion": 1,
   "Animations": [
     {
       "Id": "29d944e7-016e-4f92-8e15-ef88c6f895d9",
