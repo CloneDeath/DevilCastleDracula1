@@ -1,18 +1,20 @@
 {
   "Id": "f485172f-cfb5-4240-945f-7bcb6be8bbcb",
   "Name": "Heart",
+  "MoveSpeed": 1.0,
+  "Gravity": 10.0,
   "Size": {
     "Width": 16,
     "Height": 16
   },
-  "InitialState": "14c62fc2-1992-4376-abda-726a43159fbc",
+  "InitialState": "b9f17530-db60-4eaa-bcc7-98dafe4e530e",
   "FileVersion": 1,
   "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
   "OnPickup": [],
   "Animations": [
     {
       "Id": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
-      "Name": "idle",
+      "Name": "Idle",
       "Frames": [
         {
           "Duration": 1.0,
@@ -21,7 +23,7 @@
           "Origin": {
             "Anchor": {
               "X": 0,
-              "Y": 0
+              "Y": 1
             },
             "Offset": {
               "X": 0,
@@ -34,6 +36,15 @@
     }
   ],
   "States": [
+    {
+      "Id": "b9f17530-db60-4eaa-bcc7-98dafe4e530e",
+      "Name": "Initial State",
+      "Animation": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
+      "Transitions": [],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    },
     {
       "Id": "14c62fc2-1992-4376-abda-726a43159fbc",
       "Name": "Falling Right",
