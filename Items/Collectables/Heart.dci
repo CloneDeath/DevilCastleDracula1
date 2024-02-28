@@ -10,7 +10,13 @@
   "InitialState": "b9f17530-db60-4eaa-bcc7-98dafe4e530e",
   "FileVersion": 1,
   "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
-  "OnPickup": [],
+  "OnPickup": [
+    {
+      "Player": {
+        "RecoverMp": 1
+      }
+    }
+  ],
   "Animations": [
     {
       "Id": "9c3010a6-bfef-412a-8c67-27fe9be3ef24",
